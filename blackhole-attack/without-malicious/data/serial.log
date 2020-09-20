@@ -1,0 +1,273 @@
+1029557	ID:1	Rime started with address 193.12.0.0.0.0.0.1
+1036827	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki 3.x started. Node id is set to 1.
+1042412	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1046299	ID:9	Rime started with address 193.12.0.0.0.0.0.9
+1050249	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
+1052392	ID:1	Starting 'UDP client process'
+1053569	ID:9	MAC c1:0c:00:00:00:00:00:09 Contiki 3.x started. Node id is set to 9.
+1054306	ID:1	UDP client process started
+1059154	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1066991	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0009
+1069134	ID:9	Starting 'UDP client process'
+1071048	ID:9	UDP client process started
+1086580	ID:7	Rime started with address 193.12.0.0.0.0.0.7
+1093850	ID:7	MAC c1:0c:00:00:00:00:00:07 Contiki 3.x started. Node id is set to 7.
+1099435	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1107272	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0007
+1109415	ID:7	Starting 'UDP client process'
+1111329	ID:7	UDP client process started
+1171434	ID:8	Rime started with address 193.12.0.0.0.0.0.8
+1178704	ID:8	MAC c1:0c:00:00:00:00:00:08 Contiki 3.x started. Node id is set to 8.
+1184289	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1192126	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0008
+1194269	ID:8	Starting 'UDP client process'
+1196183	ID:8	UDP client process started
+1259119	ID:6	Rime started with address 193.12.0.0.0.0.0.6
+1266389	ID:6	MAC c1:0c:00:00:00:00:00:06 Contiki 3.x started. Node id is set to 6.
+1271974	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1279811	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0006
+1281954	ID:6	Starting 'UDP client process'
+1283868	ID:6	UDP client process started
+1478110	ID:0	Rime started with address 193.12.0.0.0.0.0.0
+1484994	ID:0	MAC c1:0c:00:00:00:00:00:00 Contiki 3.x started. Node id not set
+1490586	ID:0	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1498432	ID:0	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0000
+1500575	ID:0	Starting 'UDP server process'
+1501922	ID:0	UDP server started
+1507373	ID:0	Server IPv6 addresses:  0000:0000:0000:0000:0000:0000:0000:0000 
+1511180	ID:0	 aaaa:0000:0000:0000:c30c:0000:0000:0000 
+1512760	ID:3	Rime started with address 193.12.0.0.0.0.0.3
+1515025	ID:0	 fe80:0000:0000:0000:c30c:0000:0000:0000 
+1520030	ID:3	MAC c1:0c:00:00:00:00:00:03 Contiki 3.x started. Node id is set to 3.
+1521831	ID:0	Created a new RPL dag with ID:  aaaa:0000:0000:0000:c30c:0000:0000:0000 
+1525615	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1533452	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
+1535595	ID:3	Starting 'UDP client process'
+1537509	ID:3	UDP client process started
+1593208	ID:2	Rime started with address 193.12.0.0.0.0.0.2
+1600478	ID:2	MAC c1:0c:00:00:00:00:00:02 Contiki 3.x started. Node id is set to 2.
+1606063	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1613900	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
+1614989	ID:4	Rime started with address 193.12.0.0.0.0.0.4
+1616043	ID:2	Starting 'UDP client process'
+1617957	ID:2	UDP client process started
+1622259	ID:4	MAC c1:0c:00:00:00:00:00:04 Contiki 3.x started. Node id is set to 4.
+1627844	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1631075	ID:10	Rime started with address 193.12.0.0.0.0.0.10
+1635681	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
+1637824	ID:4	Starting 'UDP client process'
+1638469	ID:10	MAC c1:0c:00:00:00:00:00:0a Contiki 3.x started. Node id is set to 10.
+1639008	ID:5	Rime started with address 193.12.0.0.0.0.0.5
+1639738	ID:4	UDP client process started
+1644078	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1646278	ID:5	MAC c1:0c:00:00:00:00:00:05 Contiki 3.x started. Node id is set to 5.
+1651863	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1651886	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000a
+1654029	ID:10	Starting 'UDP client process'
+1655943	ID:10	UDP client process started
+1659700	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0005
+1661843	ID:5	Starting 'UDP client process'
+1663757	ID:5	UDP client process started
+6054561	ID:1	Client IPv6 addresses:  0000:0000:0000:0000:0000:0000:0000:0000 
+6058369	ID:1	 aaaa:0000:0000:0000:c30c:0000:0000:0001 
+6062175	ID:1	 fe80:0000:0000:0000:c30c:0000:0000:0001 
+6070728	ID:1	Created a connection with the server  0000:0000:0000:0000:0000:0000:0000:0000 local/remote port 3001/3000
+6071303	ID:9	Client IPv6 addresses:  0000:0000:0000:0000:0000:0000:0000:0000 
+6075111	ID:9	 aaaa:0000:0000:0000:c30c:0000:0000:0009 
+6078917	ID:9	 fe80:0000:0000:0000:c30c:0000:0000:0009 
+6087470	ID:9	Created a connection with the server  0000:0000:0000:0000:0000:0000:0000:0000 local/remote port 3001/3000
+6111584	ID:7	Client IPv6 addresses:  0000:0000:0000:0000:0000:0000:0000:0000 
+6115392	ID:7	 aaaa:0000:0000:0000:c30c:0000:0000:0007 
+6119198	ID:7	 fe80:0000:0000:0000:c30c:0000:0000:0007 
+6127751	ID:7	Created a connection with the server  0000:0000:0000:0000:0000:0000:0000:0000 local/remote port 3001/3000
+6196438	ID:8	Client IPv6 addresses:  0000:0000:0000:0000:0000:0000:0000:0000 
+6200246	ID:8	 aaaa:0000:0000:0000:c30c:0000:0000:0008 
+6204052	ID:8	 fe80:0000:0000:0000:c30c:0000:0000:0008 
+6212605	ID:8	Created a connection with the server  0000:0000:0000:0000:0000:0000:0000:0000 local/remote port 3001/3000
+6284036	ID:6	Client IPv6 addresses:  0000:0000:0000:0000:0000:0000:0000:0000 
+6287740	ID:6	 0000:0000:0000:0000:0000:0000:0000:0000 
+6291547	ID:6	 fe80:0000:0000:0000:c30c:0000:0000:0006 
+6300081	ID:6	Created a connection with the server  0000:0000:0000:0000:0000:0000:0000:0000 local/remote port 3001/3000
+6526501	ID:0	Server IPv6 addresses:  0000:0000:0000:0000:0000:0000:0000:0000 
+6530337	ID:0	 aaaa:0000:0000:0000:c30c:0000:0000:0000 
+6534143	ID:0	 fe80:0000:0000:0000:c30c:0000:0000:0000 
+6536714	ID:0	Server listening on UDP port 3000
+6537677	ID:3	Client IPv6 addresses:  0000:0000:0000:0000:0000:0000:0000:0000 
+6541381	ID:3	 0000:0000:0000:0000:0000:0000:0000:0000 
+6545188	ID:3	 fe80:0000:0000:0000:c30c:0000:0000:0003 
+6553722	ID:3	Created a connection with the server  0000:0000:0000:0000:0000:0000:0000:0000 local/remote port 3001/3000
+6618125	ID:2	Client IPv6 addresses:  0000:0000:0000:0000:0000:0000:0000:0000 
+6621829	ID:2	 0000:0000:0000:0000:0000:0000:0000:0000 
+6625636	ID:2	 fe80:0000:0000:0000:c30c:0000:0000:0002 
+6634170	ID:2	Created a connection with the server  0000:0000:0000:0000:0000:0000:0000:0000 local/remote port 3001/3000
+6639906	ID:4	Client IPv6 addresses:  0000:0000:0000:0000:0000:0000:0000:0000 
+6643610	ID:4	 0000:0000:0000:0000:0000:0000:0000:0000 
+6647417	ID:4	 fe80:0000:0000:0000:c30c:0000:0000:0004 
+6655951	ID:4	Created a connection with the server  0000:0000:0000:0000:0000:0000:0000:0000 local/remote port 3001/3000
+6655966	ID:10	Client IPv6 addresses:  0000:0000:0000:0000:0000:0000:0000:0000 
+6659774	ID:10	 aaaa:0000:0000:0000:c30c:0000:0000:000a 
+6663582	ID:10	 fe80:0000:0000:0000:c30c:0000:0000:000a 
+6663925	ID:5	Client IPv6 addresses:  0000:0000:0000:0000:0000:0000:0000:0000 
+6667629	ID:5	 0000:0000:0000:0000:0000:0000:0000:0000 
+6671436	ID:5	 fe80:0000:0000:0000:c30c:0000:0000:0005 
+6672133	ID:10	Created a connection with the server  0000:0000:0000:0000:0000:0000:0000:0000 local/remote port 3001/3000
+6679970	ID:5	Created a connection with the server  0000:0000:0000:0000:0000:0000:0000:0000 local/remote port 3001/3000
+7370954	ID:0	Created a server connection with remote address  0000:0000:0000:0000:0000:0000:0000:0000 RPL: Received a DAO from fe80::c30c:0:0:1
+21072612	ID:1	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 1 from the client )
+21089343	ID:9	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 1 from the client )
+21129624	ID:7	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 1 from the client )
+21214478	ID:8	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 1 from the client )
+21302212	ID:6	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 1 from the client )
+21555853	ID:3	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 1 from the client )
+21636301	ID:2	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 1 from the client )
+21674017	ID:10	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 1 from the client )
+21682101	ID:5	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 1 from the client )
+21892955	ID:4	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 1 from the client )
+25751929	ID:0	Server received: 'Hello 1 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0007 
+25754711	ID:0	Responding with message: Reply - (1)
+25980441	ID:7	Response from the server: 'Reply - (1)'
+26249762	ID:0	Server received: 'Hello 1 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0003 
+26252544	ID:0	Responding with message: Reply - (2)
+26406181	ID:3	Response from the server: 'Reply - (2)'
+27751282	ID:0	Server received: 'Hello 1 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0001 
+27754064	ID:0	Responding with message: Reply - (3)
+28172691	ID:1	Response from the server: 'Reply - (3)'
+36080424	ID:1	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 2 from the client )
+36097166	ID:9	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 2 from the client )
+36137436	ID:7	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 2 from the client )
+36222290	ID:8	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 2 from the client )
+36250386	ID:0	Server received: 'Hello 2 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0001 
+36253168	ID:0	Responding with message: Reply - (4)
+36309975	ID:6	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 2 from the client )
+36563665	ID:3	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 2 from the client )
+36644075	ID:2	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 2 from the client )
+36681818	ID:10	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 2 from the client )
+36689875	ID:5	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 2 from the client )
+36900220	ID:4	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 2 from the client )
+39298311	ID:1	Response from the server: 'Reply - (4)'
+39503138	ID:0	Server received: 'Hello 2 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0002 
+39505932	ID:0	Responding with message: Reply - (5)
+41000305	ID:0	Server received: 'Hello 2 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0007 
+41003087	ID:0	Responding with message: Reply - (6)
+41126130	ID:0	Server received: 'Hello 2 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0003 
+41128912	ID:0	Responding with message: Reply - (7)
+41361932	ID:2	Response from the server: 'Reply - (5)'
+41529692	ID:3	Response from the server: 'Reply - (7)'
+42231520	ID:7	Response from the server: 'Reply - (6)'
+51088217	ID:1	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 3 from the client )
+51145239	ID:7	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 3 from the client )
+51188357	ID:9	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 3 from the client )
+51230103	ID:8	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 3 from the client )
+51317799	ID:6	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 3 from the client )
+51571429	ID:3	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 3 from the client )
+51651877	ID:2	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 3 from the client )
+51689622	ID:10	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 3 from the client )
+51697688	ID:5	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 3 from the client )
+51908033	ID:4	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 3 from the client )
+55999790	ID:0	Server received: 'Hello 3 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0007 
+56002572	ID:0	Responding with message: Reply - (8)
+56113729	ID:7	Response from the server: 'Reply - (8)'
+66096038	ID:1	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 4 from the client )
+66125923	ID:0	Server received: 'Hello 4 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0001 
+66128705	ID:0	Responding with message: Reply - (9)
+66153061	ID:7	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 4 from the client )
+66174004	ID:1	Response from the server: 'Reply - (9)'
+66190905	ID:9	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 4 from the client )
+66237926	ID:8	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 4 from the client )
+66251937	ID:0	Server received: 'Hello 4 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0007 
+66254836	ID:0	Responding with message: Reply - (10)
+66325611	ID:6	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 4 from the client )
+66579241	ID:3	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 4 from the client )
+66659689	ID:2	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 4 from the client )
+66705538	ID:5	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 4 from the client )
+66915894	ID:4	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 4 from the client )
+66941895	ID:10	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 4 from the client )
+70127925	ID:0	Server received: 'Hello 4 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0002 
+70130861	ID:0	Responding with message: Reply - (11)
+70361340	ID:2	Response from the server: 'Reply - (11)'
+70999575	ID:0	Server received: 'Hello 4 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0004 
+71002474	ID:0	Responding with message: Reply - (12)
+71133477	ID:4	Response from the server: 'Reply - (12)'
+71374574	ID:0	Server received: 'Hello 4 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0009 
+71377473	ID:0	Responding with message: Reply - (13)
+71438455	ID:9	Response from the server: 'Reply - (13)'
+71605212	ID:7	Response from the server: 'Reply - (10)'
+81103851	ID:1	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 5 from the client )
+81160874	ID:7	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 5 from the client )
+81198718	ID:9	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 5 from the client )
+81245728	ID:8	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 5 from the client )
+81333413	ID:6	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 5 from the client )
+81587054	ID:3	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 5 from the client )
+81667502	ID:2	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 5 from the client )
+81713302	ID:5	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 5 from the client )
+81923658	ID:4	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 5 from the client )
+81947443	ID:10	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 5 from the client )
+83128067	ID:0	Server received: 'Hello 5 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0009 
+83131002	ID:0	Responding with message: Reply - (14)
+83252214	ID:0	Server received: 'Hello 5 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0007 
+83255113	ID:0	Responding with message: Reply - (15)
+83355623	ID:7	Response from the server: 'Reply - (15)'
+83624737	ID:0	Server received: 'Hello 5 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0003 
+83627636	ID:0	Responding with message: Reply - (16)
+83782786	ID:3	Response from the server: 'Reply - (16)'
+84375016	ID:0	Server received: 'Hello 5 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:000a 
+84377915	ID:0	Responding with message: Reply - (17)
+84398751	ID:10	Response from the server: 'Reply - (17)'
+84628209	ID:0	Server received: 'Hello 5 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0005 
+84631144	ID:0	Responding with message: Reply - (18)
+85877000	ID:0	Server received: 'Hello 5 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0008 
+85879899	ID:0	Responding with message: Reply - (19)
+85939379	ID:8	Response from the server: 'Reply - (19)'
+86690766	ID:9	Response from the server: 'Reply - (14)'
+96111867	ID:1	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 6 from the client )
+96168890	ID:7	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 6 from the client )
+96206521	ID:9	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 6 from the client )
+96253753	ID:8	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 6 from the client )
+96341438	ID:6	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 6 from the client )
+96595079	ID:3	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 6 from the client )
+96675518	ID:2	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 6 from the client )
+96721327	ID:5	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 6 from the client )
+96931461	ID:4	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 6 from the client )
+96955305	ID:10	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 6 from the client )
+98625473	ID:0	Server received: 'Hello 6 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0007 
+98628373	ID:0	Responding with message: Reply - (20)
+98728874	ID:7	Response from the server: 'Reply - (20)'
+98999408	ID:0	Server received: 'Hello 6 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0009 
+99002307	ID:0	Responding with message: Reply - (21)
+99073302	ID:9	Response from the server: 'Reply - (21)'
+99251453	ID:0	Server received: 'Hello 6 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0001 
+99254352	ID:0	Responding with message: Reply - (22)
+99296501	ID:1	Response from the server: 'Reply - (22)'
+99376730	ID:0	Server received: 'Hello 6 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0005 
+99379629	ID:0	Responding with message: Reply - (23)
+99534113	ID:5	Response from the server: 'Reply - (23)'
+100252285	ID:0	Server received: 'Hello 6 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0002 
+100255184	ID:0	Responding with message: Reply - (24)
+100374377	ID:0	Server received: 'Hello 6 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:000a 
+100377277	ID:0	Responding with message: Reply - (25)
+100484726	ID:2	Response from the server: 'Reply - (24)'
+100523314	ID:10	Response from the server: 'Reply - (25)'
+111119525	ID:1	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 7 from the client )
+111176548	ID:7	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 7 from the client )
+111214397	ID:9	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 7 from the client )
+111261402	ID:8	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 7 from the client )
+111349038	ID:6	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 7 from the client )
+111502427	ID:0	Server received: 'Hello 7 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0007 
+111505326	ID:0	Responding with message: Reply - (26)
+111602679	ID:3	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 7 from the client )
+111683176	ID:2	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 7 from the client )
+111728917	ID:5	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 7 from the client )
+111939273	ID:4	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 7 from the client )
+111963068	ID:10	Client sending to:  aaaa:0000:0000:0000:c30c:0000:0000:0000  (msg: Hello 7 from the client )
+114124604	ID:0	Server received: 'Hello 7 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0001 
+114127503	ID:0	Responding with message: Reply - (27)
+114173245	ID:1	Response from the server: 'Reply - (27)'
+114251257	ID:0	Server received: 'Hello 7 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0008 
+114254156	ID:0	Responding with message: Reply - (28)
+114565707	ID:8	Response from the server: 'Reply - (28)'
+114626253	ID:0	Server received: 'Hello 7 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0009 
+114629152	ID:0	Responding with message: Reply - (29)
+114690090	ID:9	Response from the server: 'Reply - (29)'
+115128423	ID:0	Server received: 'Hello 7 from the client ' from  aaaa:0000:0000:0000:c30c:0000:0000:0002 
+115131361	ID:0	Responding with message: Reply - (30)
+115608762	ID:2	Response from the server: 'Reply - (30)'

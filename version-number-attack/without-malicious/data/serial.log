@@ -1,0 +1,81 @@
+1140793	ID:8	Rime started with address 193.12.0.0.0.0.0.8
+1148063	ID:8	MAC c1:0c:00:00:00:00:00:08 Contiki 3.x started. Node id is set to 8.
+1153648	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1161485	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0008
+1163343	ID:8	Starting 'Sensor process'
+1164760	ID:8	Starting UDP server
+1166677	ID:8	Listen port: 3000, TTL=64
+1468183	ID:2	Rime started with address 193.12.0.0.0.0.0.2
+1475083	ID:0	Rime started with address 193.12.0.0.0.0.0.0
+1475453	ID:2	MAC c1:0c:00:00:00:00:00:02 Contiki 3.x started. Node id is set to 2.
+1481038	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1481966	ID:0	MAC c1:0c:00:00:00:00:00:00 Contiki 3.x started. Node id not set
+1482228	ID:7	Rime started with address 193.12.0.0.0.0.0.7
+1487557	ID:0	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1488875	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
+1489498	ID:7	MAC c1:0c:00:00:00:00:00:07 Contiki 3.x started. Node id is set to 7.
+1490733	ID:2	Starting 'Sensor process'
+1492150	ID:2	Starting UDP server
+1494067	ID:2	Listen port: 3000, TTL=64
+1495083	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1495403	ID:0	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0000
+1497546	ID:0	Starting 'DODAG root process'
+1498964	ID:0	Starting UDP server
+1500727	ID:0	Server IPv6 addresses:
+1502588	ID:0	  aaaa::c30c:0:0:0
+1502920	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0007
+1504417	ID:0	  fe80::c30c:0:0:0
+1504778	ID:7	Starting 'Sensor process'
+1506195	ID:7	Starting UDP server
+1507160	ID:6	Rime started with address 193.12.0.0.0.0.0.6
+1508112	ID:7	Listen port: 3000, TTL=64
+1509069	ID:0	Created a new RPL dag with ID: aaaa::c30c:0:0:0
+1510999	ID:0	Listen port: 3000, TTL=64
+1514430	ID:6	MAC c1:0c:00:00:00:00:00:06 Contiki 3.x started. Node id is set to 6.
+1518930	ID:1	Rime started with address 193.12.0.0.0.0.0.1
+1520015	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1520398	ID:9	Rime started with address 193.12.0.0.0.0.0.9
+1526200	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki 3.x started. Node id is set to 1.
+1527668	ID:9	MAC c1:0c:00:00:00:00:00:09 Contiki 3.x started. Node id is set to 9.
+1527852	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0006
+1529710	ID:6	Starting 'Sensor process'
+1531013	ID:5	Rime started with address 193.12.0.0.0.0.0.5
+1531127	ID:6	Starting UDP server
+1531785	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1533044	ID:6	Listen port: 3000, TTL=64
+1533253	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1538283	ID:5	MAC c1:0c:00:00:00:00:00:05 Contiki 3.x started. Node id is set to 5.
+1539622	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
+1541090	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0009
+1541480	ID:1	Starting 'Sensor process'
+1542897	ID:1	Starting UDP server
+1542948	ID:9	Starting 'Sensor process'
+1543868	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1544365	ID:9	Starting UDP server
+1544814	ID:1	Listen port: 3000, TTL=64
+1546282	ID:9	Listen port: 3000, TTL=64
+1551705	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0005
+1553563	ID:5	Starting 'Sensor process'
+1554980	ID:5	Starting UDP server
+1556897	ID:5	Listen port: 3000, TTL=64
+1745988	ID:4	Rime started with address 193.12.0.0.0.0.0.4
+1753258	ID:4	MAC c1:0c:00:00:00:00:00:04 Contiki 3.x started. Node id is set to 4.
+1758843	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1766680	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
+1768538	ID:4	Starting 'Sensor process'
+1769955	ID:4	Starting UDP server
+1771872	ID:4	Listen port: 3000, TTL=64
+1827014	ID:3	Rime started with address 193.12.0.0.0.0.0.3
+1834284	ID:3	MAC c1:0c:00:00:00:00:00:03 Contiki 3.x started. Node id is set to 3.
+1839869	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1847706	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
+1849564	ID:3	Starting 'Sensor process'
+1850981	ID:3	Starting UDP server
+1852898	ID:3	Listen port: 3000, TTL=64
+1861689	ID:10	Rime started with address 193.12.0.0.0.0.0.10
+1869083	ID:10	MAC c1:0c:00:00:00:00:00:0a Contiki 3.x started. Node id is set to 10.
+1874693	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1882501	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000a
+1884359	ID:10	Starting 'Sensor process'
+1885777	ID:10	Starting UDP server
+1887693	ID:10	Listen port: 3000, TTL=64

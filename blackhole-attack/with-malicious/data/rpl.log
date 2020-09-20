@@ -1,0 +1,2068 @@
+2018850	ID:6	RPL: Sending a DIS to ff02::1a
+2045189	ID:9	RPL: Sending a DIS to ff02::1a
+2185406	ID:5	RPL: Received a DIS from fe80::c30c:0:0:9
+2431065	ID:5	RPL: Sending a DIS to ff02::1a
+2502459	ID:8	RPL: Received a DIS from fe80::c30c:0:0:5
+2548362	ID:9	RPL: Received a DIS from fe80::c30c:0:0:5
+2603574	ID:2	RPL: Sending a DIS to ff02::1a
+2623370	ID:1	RPL: Sending a DIS to ff02::1a
+2753842	ID:8	RPL: Received a DIS from fe80::c30c:0:0:1
+5128167	ID:0	RPL: Sending prefix info in DIO for aaaa::
+5131334	ID:0	RPL: Sending a multicast-DIO with rank 128
+5175051	ID:9	RPL: Received a DIO from fe80::c30c:0:0:0
+5178834	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+5183400	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+5185626	ID:9	RPL: DIO option 4, length: 14
+5191684	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+5192319	ID:11	RPL: Received a DIO from fe80::c30c:0:0:0
+5193910	ID:9	RPL: DIO option 8, length: 30
+5196087	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+5196179	ID:9	RPL: Copying prefix information
+5200641	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+5201023	ID:7	RPL: Received a DIO from fe80::c30c:0:0:0
+5202867	ID:11	RPL: DIO option 4, length: 14
+5203246	ID:9	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:0, c1:0c:00:00:00:00:00:00
+5204791	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+5208887	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+5209357	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+5211113	ID:11	RPL: DIO option 8, length: 30
+5211582	ID:7	RPL: DIO option 4, length: 14
+5213382	ID:11	RPL: Copying prefix information
+5217602	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+5219828	ID:7	RPL: DIO option 8, length: 30
+5220332	ID:11	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:0, c1:0c:00:00:00:00:00:00
+5222097	ID:7	RPL: Copying prefix information
+5229024	ID:7	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:0, c1:0c:00:00:00:00:00:00
+5235660	ID:2	RPL: Received a DIO from fe80::c30c:0:0:0
+5239429	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+5243983	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+5244307	ID:10	RPL: Received a DIO from fe80::c30c:0:0:0
+5246209	ID:2	RPL: DIO option 4, length: 14
+5248076	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+5252230	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+5252630	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+5253032	ID:1	RPL: Received a DIO from fe80::c30c:0:0:0
+5254456	ID:2	RPL: DIO option 8, length: 30
+5254856	ID:10	RPL: DIO option 4, length: 14
+5256725	ID:2	RPL: Copying prefix information
+5256801	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+5257468	ID:8	RPL: Received a DIO from fe80::c30c:0:0:0
+5260876	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+5261236	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+5261356	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+5263102	ID:10	RPL: DIO option 8, length: 30
+5263581	ID:1	RPL: DIO option 4, length: 14
+5263682	ID:2	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:0, c1:0c:00:00:00:00:00:00
+5265394	ID:10	RPL: Copying prefix information
+5265790	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+5268016	ID:8	RPL: DIO option 4, length: 14
+5269601	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+5271828	ID:1	RPL: DIO option 8, length: 30
+5272322	ID:10	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:0, c1:0c:00:00:00:00:00:00
+5274049	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+5274096	ID:1	RPL: Copying prefix information
+5276275	ID:8	RPL: DIO option 8, length: 30
+5278565	ID:8	RPL: Copying prefix information
+5281060	ID:1	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:0, c1:0c:00:00:00:00:00:00
+5285771	ID:8	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:0, c1:0c:00:00:00:00:00:00
+7385721	ID:2	RPL: Sending prefix info in DIO for aaaa::
+7388889	ID:2	RPL: Sending a multicast-DIO with rank 384
+7449878	ID:7	RPL: Received a DIO from fe80::c30c:0:0:2
+7453647	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,384)
+7458213	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+7460439	ID:7	RPL: DIO option 4, length: 14
+7466474	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+7468700	ID:7	RPL: DIO option 8, length: 30
+7470969	ID:7	RPL: Copying prefix information
+7478646	ID:7	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:2, c1:0c:00:00:00:00:00:02
+7488266	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,384)
+7492840	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+7493188	ID:10	RPL: Received a DIO from fe80::c30c:0:0:2
+7495066	ID:0	RPL: DIO option 4, length: 14
+7496957	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,384)
+7501101	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+7501550	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+7503327	ID:0	RPL: DIO option 8, length: 30
+7503776	ID:10	RPL: DIO option 4, length: 14
+7505596	ID:0	RPL: Copying prefix information
+7509795	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+7512022	ID:10	RPL: DIO option 8, length: 30
+7512924	ID:0	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:2, c1:0c:00:00:00:00:00:02
+7514290	ID:10	RPL: Copying prefix information
+7514811	ID:3	RPL: Received a DIO from fe80::c30c:0:0:2
+7518580	ID:3	RPL: Incoming DIO (id, ver, rank) = (30,240,384)
+7522004	ID:10	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:2, c1:0c:00:00:00:00:00:02
+7523167	ID:3	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+7525393	ID:3	RPL: DIO option 4, length: 14
+7531428	ID:3	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+7533654	ID:3	RPL: DIO option 8, length: 30
+7535923	ID:3	RPL: Copying prefix information
+7542851	ID:3	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:2, c1:0c:00:00:00:00:00:02
+7709365	ID:11	RPL: Sending a DAO with sequence number 241, lifetime 30, prefix aaaa::c30c:0:0:b to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+7732648	ID:0	RPL: Received a DAO from fe80::c30c:0:0:b
+7733465	ID:1	RPL: Sending a DAO with sequence number 241, lifetime 30, prefix aaaa::c30c:0:0:1 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+7738747	ID:0	RPL: Received a (unicast) DAO with sequence number 241 from fe80::c30c:0:0:b
+7744494	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:b
+7746054	ID:0	RPL: Adding DAO route
+7753606	ID:0	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:b, c1:0c:00:00:00:00:00:0b
+7815526	ID:10	RPL: Sending a DAO with sequence number 241, lifetime 30, prefix aaaa::c30c:0:0:a to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+7856507	ID:0	RPL: Received a DAO from fe80::c30c:0:0:1
+7862613	ID:0	RPL: Received a (unicast) DAO with sequence number 241 from fe80::c30c:0:0:1
+7866398	ID:9	RPL: Sending prefix info in DIO for aaaa::
+7868537	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:1
+7869566	ID:9	RPL: Sending a multicast-DIO with rank 384
+7870097	ID:0	RPL: Adding DAO route
+7878002	ID:0	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:1, c1:0c:00:00:00:00:00:01
+7934396	ID:5	RPL: Received a DIO from fe80::c30c:0:0:9
+7937081	ID:7	RPL: Sending a DAO with sequence number 241, lifetime 30, prefix aaaa::c30c:0:0:7 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+7938081	ID:8	RPL: Sending a DAO with sequence number 241, lifetime 30, prefix aaaa::c30c:0:0:8 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+7938180	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,384)
+7942734	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+7944998	ID:5	RPL: DIO option 4, length: 14
+7947985	ID:7	RPL: Received a DIO from fe80::c30c:0:0:9
+7951018	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+7951755	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,384)
+7953258	ID:5	RPL: DIO option 8, length: 30
+7955526	ID:5	RPL: Copying prefix information
+7956309	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+7958535	ID:7	RPL: DIO option 4, length: 14
+7962455	ID:5	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:9, c1:0c:00:00:00:00:00:09
+7964555	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+7966781	ID:7	RPL: DIO option 8, length: 30
+7969050	ID:7	RPL: Copying prefix information
+7977075	ID:7	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:9, c1:0c:00:00:00:00:00:09
+7982698	ID:0	RPL: Received a DIO from fe80::c30c:0:0:9
+7986467	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,384)
+7991022	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+7991320	ID:10	RPL: Received a DIO from fe80::c30c:0:0:9
+7993247	ID:0	RPL: DIO option 4, length: 14
+7995090	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,384)
+7999267	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+7999644	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+8001530	ID:0	RPL: DIO option 8, length: 30
+8001870	ID:10	RPL: DIO option 4, length: 14
+8003799	ID:0	RPL: Copying prefix information
+8004388	ID:8	RPL: Received a DIO from fe80::c30c:0:0:9
+8007928	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+8008186	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,384)
+8010154	ID:10	RPL: DIO option 8, length: 30
+8012200	ID:0	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:9, c1:0c:00:00:00:00:00:09
+8012423	ID:10	RPL: Copying prefix information
+8012740	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+8014967	ID:8	RPL: DIO option 4, length: 14
+8020473	ID:10	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:9, c1:0c:00:00:00:00:00:09
+8020987	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+8023213	ID:8	RPL: DIO option 8, length: 30
+8025482	ID:8	RPL: Copying prefix information
+8033724	ID:8	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:9, c1:0c:00:00:00:00:00:09
+8315149	ID:10	RPL: Sending prefix info in DIO for aaaa::
+8318317	ID:10	RPL: Sending a multicast-DIO with rank 384
+8576173	ID:7	RPL: Sending prefix info in DIO for aaaa::
+8579341	ID:7	RPL: Sending a multicast-DIO with rank 384
+8686309	ID:11	RPL: Sending prefix info in DIO for aaaa::
+8689477	ID:11	RPL: Sending a multicast-DIO with rank 384
+8737938	ID:2	RPL: Received a DIO from fe80::c30c:0:0:7
+8741707	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,384)
+8746261	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+8748487	ID:2	RPL: DIO option 4, length: 14
+8754527	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+8756753	ID:2	RPL: DIO option 8, length: 30
+8759021	ID:2	RPL: Copying prefix information
+8766730	ID:2	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:7, c1:0c:00:00:00:00:00:07
+8780492	ID:1	RPL: Sending prefix info in DIO for aaaa::
+8783659	ID:1	RPL: Sending a multicast-DIO with rank 345
+8963947	ID:4	RPL: Received a DIO from fe80::c30c:0:0:1
+8967716	ID:4	RPL: Incoming DIO (id, ver, rank) = (30,240,345)
+8972281	ID:4	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+8974507	ID:4	RPL: DIO option 4, length: 14
+8980542	ID:4	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+8982769	ID:4	RPL: DIO option 8, length: 30
+8985058	ID:4	RPL: Copying prefix information
+8991987	ID:4	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:1, c1:0c:00:00:00:00:00:01
+9063457	ID:8	RPL: Sending prefix info in DIO for aaaa::
+9066625	ID:8	RPL: Sending a multicast-DIO with rank 384
+9608378	ID:0	RPL: Received a DAO from fe80::c30c:0:0:a
+9614472	ID:0	RPL: Received a (unicast) DAO with sequence number 241 from fe80::c30c:0:0:a
+9620703	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:a
+9622278	ID:0	RPL: Adding DAO route
+9630843	ID:0	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:a, c1:0c:00:00:00:00:00:0a
+9717798	ID:9	RPL: Sending a DAO with sequence number 241, lifetime 30, prefix aaaa::c30c:0:0:9 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+9857383	ID:0	RPL: Received a DAO from fe80::c30c:0:0:9
+9863476	ID:0	RPL: Received a (unicast) DAO with sequence number 241 from fe80::c30c:0:0:9
+9869707	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:9
+9871315	ID:0	RPL: Adding DAO route
+9980148	ID:2	RPL: Sending a DAO with sequence number 241, lifetime 30, prefix aaaa::c30c:0:0:2 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+10025594	ID:5	RPL: Sending prefix info in DIO for aaaa::
+10028761	ID:5	RPL: Sending a multicast-DIO with rank 640
+10128487	ID:8	RPL: Received a DIO from fe80::c30c:0:0:5
+10132259	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,640)
+10136814	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+10139039	ID:8	RPL: DIO option 4, length: 14
+10145059	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+10147286	ID:8	RPL: DIO option 8, length: 30
+10149554	ID:8	RPL: Copying prefix information
+10157348	ID:8	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:5, c1:0c:00:00:00:00:00:05
+10232564	ID:0	RPL: Received a DAO from fe80::c30c:0:0:2
+10238675	ID:0	RPL: Received a (unicast) DAO with sequence number 241 from fe80::c30c:0:0:2
+10244403	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:2
+10246044	ID:0	RPL: Adding DAO route
+10470243	ID:3	RPL: Sending a DAO with sequence number 241, lifetime 30, prefix aaaa::c30c:0:0:3 to fe80::c30c:0:0:2 , parent fe80::c30c:0:0:2
+10618939	ID:10	RPL: Received a DIO from fe80::c30c:0:0:b
+10622708	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,384)
+10627262	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+10629488	ID:10	RPL: DIO option 4, length: 14
+10635519	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+10637745	ID:10	RPL: DIO option 8, length: 30
+10640013	ID:10	RPL: Copying prefix information
+10648419	ID:10	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:b, c1:0c:00:00:00:00:00:0b
+10662827	ID:10	RPL: Sending prefix info in DIO for aaaa::
+10667613	ID:10	RPL: Sending unicast-DIO with rank 499 to fe80::c30c:0:0:0
+10714161	ID:4	RPL: Received a DIO from fe80::c30c:0:0:b
+10717931	ID:4	RPL: Incoming DIO (id, ver, rank) = (30,240,384)
+10722495	ID:4	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+10724720	ID:4	RPL: DIO option 4, length: 14
+10730779	ID:4	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+10732991	ID:3	RPL: Sending prefix info in DIO for aaaa::
+10733005	ID:4	RPL: DIO option 8, length: 30
+10733070	ID:2	RPL: Received a DAO from fe80::c30c:0:0:3
+10735273	ID:4	RPL: Copying prefix information
+10736158	ID:3	RPL: Sending a multicast-DIO with rank 640
+10739164	ID:2	RPL: Received a (unicast) DAO with sequence number 241 from fe80::c30c:0:0:3
+10742945	ID:4	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:b, c1:0c:00:00:00:00:00:0b
+10745062	ID:2	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:3
+10746622	ID:2	RPL: Adding DAO route
+10754514	ID:2	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:3, c1:0c:00:00:00:00:00:03
+10762426	ID:2	RPL: Forwarding DAO to parent fe80::c30c:0:0:0 in seq: 241 out seq: 242
+10983089	ID:0	RPL: Received a DIO from fe80::c30c:0:0:a
+10986879	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,499)
+10991434	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+10993659	ID:0	RPL: DIO option 4, length: 14
+10999679	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+11001905	ID:0	RPL: DIO option 8, length: 30
+11004174	ID:0	RPL: Copying prefix information
+11107158	ID:0	RPL: Received a DAO from fe80::c30c:0:0:2
+11113252	ID:0	RPL: Received a (unicast) DAO with sequence number 242 from fe80::c30c:0:0:2
+11118959	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:3
+11120635	ID:0	RPL: Adding DAO route
+11447287	ID:5	RPL: Sending a DAO with sequence number 241, lifetime 30, prefix aaaa::c30c:0:0:5 to fe80::c30c:0:0:9 , parent fe80::c30c:0:0:9
+11549667	ID:9	RPL: Received a DAO from fe80::c30c:0:0:5
+11555772	ID:9	RPL: Received a (unicast) DAO with sequence number 241 from fe80::c30c:0:0:5
+11561520	ID:9	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:5
+11563080	ID:9	RPL: Adding DAO route
+11570347	ID:7	RPL: Sending prefix info in DIO for aaaa::
+11570418	ID:9	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:5, c1:0c:00:00:00:00:00:05
+11575168	ID:7	RPL: Sending unicast-DIO with rank 537 to fe80::c30c:0:0:0
+11577950	ID:9	RPL: Forwarding DAO to parent fe80::c30c:0:0:0 in seq: 241 out seq: 242
+11610042	ID:0	RPL: Received a DIO from fe80::c30c:0:0:7
+11613812	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,537)
+11618376	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+11620602	ID:0	RPL: DIO option 4, length: 14
+11626637	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+11628863	ID:0	RPL: DIO option 8, length: 30
+11631132	ID:0	RPL: Copying prefix information
+11640231	ID:0	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:7, c1:0c:00:00:00:00:00:07
+11731179	ID:0	RPL: Received a DAO from fe80::c30c:0:0:9
+11737272	ID:0	RPL: Received a (unicast) DAO with sequence number 242 from fe80::c30c:0:0:9
+11743521	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:5
+11745230	ID:0	RPL: Adding DAO route
+11863419	ID:4	RPL: Sending a DAO with sequence number 241, lifetime 30, prefix aaaa::c30c:0:0:4 to fe80::c30c:0:0:1 , parent fe80::c30c:0:0:1
+12003104	ID:1	RPL: Received a DAO from fe80::c30c:0:0:4
+12009198	ID:1	RPL: Received a (unicast) DAO with sequence number 241 from fe80::c30c:0:0:4
+12014934	ID:1	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:4
+12016494	ID:1	RPL: Adding DAO route
+12024026	ID:1	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:4, c1:0c:00:00:00:00:00:04
+12031729	ID:1	RPL: Forwarding DAO to parent fe80::c30c:0:0:0 in seq: 241 out seq: 242
+12107988	ID:0	RPL: Received a DAO from fe80::c30c:0:0:1
+12114102	ID:0	RPL: Received a (unicast) DAO with sequence number 242 from fe80::c30c:0:0:1
+12120138	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:4
+12121881	ID:0	RPL: Adding DAO route
+12512010	ID:4	RPL: Sending prefix info in DIO for aaaa::
+12515178	ID:4	RPL: Sending a multicast-DIO with rank 601
+12567452	ID:11	RPL: Received a DIO from fe80::c30c:0:0:4
+12571222	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,601)
+12575776	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+12578002	ID:11	RPL: DIO option 4, length: 14
+12584027	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+12586253	ID:11	RPL: DIO option 8, length: 30
+12588522	ID:11	RPL: Copying prefix information
+12596236	ID:11	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:4, c1:0c:00:00:00:00:00:04
+12629487	ID:1	RPL: Received a DIO from fe80::c30c:0:0:4
+12633257	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,601)
+12637814	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+12640040	ID:1	RPL: DIO option 4, length: 14
+12646098	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+12648324	ID:1	RPL: DIO option 8, length: 30
+12650593	ID:1	RPL: Copying prefix information
+12937028	ID:9	RPL: Sending prefix info in DIO for aaaa::
+12941850	ID:9	RPL: Sending unicast-DIO with rank 318 to fe80::c30c:0:0:0
+12984417	ID:0	RPL: Received a DIO from fe80::c30c:0:0:9
+12988187	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,318)
+12992769	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+12994995	ID:0	RPL: DIO option 4, length: 14
+13001030	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+13003256	ID:0	RPL: DIO option 8, length: 30
+13005525	ID:0	RPL: Copying prefix information
+13370318	ID:0	RPL: Sending prefix info in DIO for aaaa::
+13373486	ID:0	RPL: Sending a multicast-DIO with rank 128
+13425232	ID:9	RPL: Received a DIO from fe80::c30c:0:0:0
+13429000	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+13433592	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+13435818	ID:9	RPL: DIO option 4, length: 14
+13441838	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+13442577	ID:11	RPL: Received a DIO from fe80::c30c:0:0:0
+13444064	ID:9	RPL: DIO option 8, length: 30
+13446333	ID:9	RPL: Copying prefix information
+13446345	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+13450908	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+13451328	ID:7	RPL: Received a DIO from fe80::c30c:0:0:0
+13453133	ID:11	RPL: DIO option 4, length: 14
+13455096	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+13459169	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+13459651	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+13461395	ID:11	RPL: DIO option 8, length: 30
+13461876	ID:7	RPL: DIO option 4, length: 14
+13463664	ID:11	RPL: Copying prefix information
+13467903	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+13470129	ID:7	RPL: DIO option 8, length: 30
+13472398	ID:7	RPL: Copying prefix information
+13486004	ID:2	RPL: Received a DIO from fe80::c30c:0:0:0
+13489772	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+13490441	ID:10	RPL: Received a DIO from fe80::c30c:0:0:0
+13494227	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+13494326	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+13496552	ID:2	RPL: DIO option 4, length: 14
+13498781	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+13501007	ID:10	RPL: DIO option 4, length: 14
+13502586	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+13503295	ID:1	RPL: Received a DIO from fe80::c30c:0:0:0
+13503469	ID:8	RPL: Received a DIO from fe80::c30c:0:0:0
+13504812	ID:2	RPL: DIO option 8, length: 30
+13507027	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+13507081	ID:2	RPL: Copying prefix information
+13507086	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+13507259	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+13509253	ID:10	RPL: DIO option 8, length: 30
+13511522	ID:10	RPL: Copying prefix information
+13511653	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+13511814	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+13513879	ID:1	RPL: DIO option 4, length: 14
+13514039	ID:8	RPL: DIO option 4, length: 14
+13519937	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+13520059	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+13522163	ID:1	RPL: DIO option 8, length: 30
+13522285	ID:8	RPL: DIO option 8, length: 30
+13524432	ID:1	RPL: Copying prefix information
+13524554	ID:8	RPL: Copying prefix information
+14229436	ID:2	RPL: Sending prefix info in DIO for aaaa::
+14232603	ID:2	RPL: Sending a multicast-DIO with rank 345
+14262715	ID:3	RPL: Received a DIO from fe80::c30c:0:0:2
+14266484	ID:3	RPL: Incoming DIO (id, ver, rank) = (30,240,345)
+14271038	ID:3	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+14273295	ID:3	RPL: DIO option 4, length: 14
+14279315	ID:3	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+14281543	ID:3	RPL: DIO option 8, length: 30
+14283811	ID:3	RPL: Copying prefix information
+14323589	ID:7	RPL: Received a DIO from fe80::c30c:0:0:2
+14327394	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,345)
+14331949	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+14334174	ID:7	RPL: DIO option 4, length: 14
+14340233	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+14342459	ID:7	RPL: DIO option 8, length: 30
+14344727	ID:7	RPL: Copying prefix information
+14358194	ID:0	RPL: Received a DIO from fe80::c30c:0:0:2
+14361963	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,345)
+14366517	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+14366953	ID:10	RPL: Received a DIO from fe80::c30c:0:0:2
+14368743	ID:0	RPL: DIO option 4, length: 14
+14370722	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,345)
+14374801	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+14375293	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+14377028	ID:0	RPL: DIO option 8, length: 30
+14377518	ID:10	RPL: DIO option 4, length: 14
+14379296	ID:0	RPL: Copying prefix information
+14383565	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+14385791	ID:10	RPL: DIO option 8, length: 30
+14388060	ID:10	RPL: Copying prefix information
+14920453	ID:11	RPL: Sending prefix info in DIO for aaaa::
+14923621	ID:11	RPL: Sending a multicast-DIO with rank 345
+14962406	ID:4	RPL: Received a DIO from fe80::c30c:0:0:b
+14966175	ID:4	RPL: Incoming DIO (id, ver, rank) = (30,240,345)
+14970767	ID:4	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+14972993	ID:4	RPL: DIO option 4, length: 14
+14979051	ID:4	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+14981278	ID:4	RPL: DIO option 8, length: 30
+14983546	ID:4	RPL: Copying prefix information
+14984358	ID:0	RPL: Received a DIO from fe80::c30c:0:0:b
+14988127	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,345)
+14992697	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+14992888	ID:10	RPL: Received a DIO from fe80::c30c:0:0:b
+14994923	ID:0	RPL: DIO option 4, length: 14
+14996657	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,345)
+15000959	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+15001223	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+15003185	ID:0	RPL: DIO option 8, length: 30
+15003449	ID:10	RPL: DIO option 4, length: 14
+15005454	ID:0	RPL: Copying prefix information
+15006316	ID:1	RPL: Received a DIO from fe80::c30c:0:0:b
+15006498	ID:8	RPL: Received a DIO from fe80::c30c:0:0:b
+15009483	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+15010084	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,345)
+15010267	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,345)
+15011709	ID:10	RPL: DIO option 8, length: 30
+15013978	ID:10	RPL: Copying prefix information
+15014639	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+15014821	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+15016864	ID:1	RPL: DIO option 4, length: 14
+15017047	ID:8	RPL: DIO option 4, length: 14
+15022884	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+15023085	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+15025111	ID:1	RPL: DIO option 8, length: 30
+15025311	ID:8	RPL: DIO option 8, length: 30
+15027399	ID:1	RPL: Copying prefix information
+15027580	ID:8	RPL: Copying prefix information
+15035420	ID:1	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:b, c1:0c:00:00:00:00:00:0b
+15036264	ID:8	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:b, c1:0c:00:00:00:00:00:0b
+15049718	ID:9	RPL: Received a DIO from fe80::c30c:0:0:b
+15053487	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,345)
+15058041	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+15060267	ID:9	RPL: DIO option 4, length: 14
+15066325	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+15068552	ID:9	RPL: DIO option 8, length: 30
+15070820	ID:9	RPL: Copying prefix information
+15078872	ID:9	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:b, c1:0c:00:00:00:00:00:0b
+15190645	ID:10	RPL: Sending prefix info in DIO for aaaa::
+15193812	ID:10	RPL: Sending a multicast-DIO with rank 481
+15232947	ID:0	RPL: Received a DIO from fe80::c30c:0:0:a
+15233295	ID:2	RPL: Received a DIO from fe80::c30c:0:0:a
+15236737	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,481)
+15237077	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,481)
+15241291	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+15241631	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+15243517	ID:0	RPL: DIO option 4, length: 14
+15243857	ID:2	RPL: DIO option 4, length: 14
+15249537	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+15249877	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+15251763	ID:0	RPL: DIO option 8, length: 30
+15252103	ID:2	RPL: DIO option 8, length: 30
+15254032	ID:0	RPL: Copying prefix information
+15254372	ID:2	RPL: Copying prefix information
+15254905	ID:1	RPL: Received a DIO from fe80::c30c:0:0:a
+15258673	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,481)
+15262755	ID:2	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:a, c1:0c:00:00:00:00:00:0a
+15263266	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+15265492	ID:1	RPL: DIO option 4, length: 14
+15271511	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+15273738	ID:1	RPL: DIO option 8, length: 30
+15276006	ID:1	RPL: Copying prefix information
+15276369	ID:6	RPL: Received a DIO from fe80::c30c:0:0:a
+15280138	ID:6	RPL: Incoming DIO (id, ver, rank) = (30,240,481)
+15284412	ID:1	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:a, c1:0c:00:00:00:00:00:0a
+15284692	ID:6	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+15286918	ID:6	RPL: DIO option 4, length: 14
+15292938	ID:6	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+15295164	ID:6	RPL: DIO option 8, length: 30
+15297448	ID:6	RPL: Copying prefix information
+15302606	ID:9	RPL: Received a DIO from fe80::c30c:0:0:a
+15304378	ID:6	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:a, c1:0c:00:00:00:00:00:0a
+15306374	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,481)
+15310939	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+15313165	ID:9	RPL: DIO option 4, length: 14
+15315553	ID:11	RPL: Received a DIO from fe80::c30c:0:0:a
+15319200	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+15319321	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,481)
+15321426	ID:9	RPL: DIO option 8, length: 30
+15323695	ID:9	RPL: Copying prefix information
+15323876	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+15326101	ID:11	RPL: DIO option 4, length: 14
+15332134	ID:9	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:a, c1:0c:00:00:00:00:00:0a
+15332145	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+15334371	ID:11	RPL: DIO option 8, length: 30
+15336640	ID:11	RPL: Copying prefix information
+15344694	ID:11	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:a, c1:0c:00:00:00:00:00:0a
+15662472	ID:11	RPL: Sending a DAO with sequence number 242, lifetime 30, prefix aaaa::c30c:0:0:b to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+15731695	ID:0	RPL: Received a DAO from fe80::c30c:0:0:b
+15737822	ID:0	RPL: Received a (unicast) DAO with sequence number 242 from fe80::c30c:0:0:b
+15743686	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:b
+15745489	ID:0	RPL: Adding DAO route
+16070047	ID:7	RPL: Sending prefix info in DIO for aaaa::
+16073215	ID:7	RPL: Sending a multicast-DIO with rank 494
+16107852	ID:2	RPL: Received a DIO from fe80::c30c:0:0:7
+16108044	ID:0	RPL: Received a DIO from fe80::c30c:0:0:7
+16111650	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,494)
+16111813	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,494)
+16116204	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+16116367	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+16118430	ID:2	RPL: DIO option 4, length: 14
+16118593	ID:0	RPL: DIO option 4, length: 14
+16124450	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+16124613	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+16126676	ID:2	RPL: DIO option 8, length: 30
+16126840	ID:0	RPL: DIO option 8, length: 30
+16128945	ID:2	RPL: Copying prefix information
+16129109	ID:0	RPL: Copying prefix information
+16138506	ID:3	RPL: Received a DIO from fe80::c30c:0:0:7
+16142311	ID:3	RPL: Incoming DIO (id, ver, rank) = (30,240,494)
+16146876	ID:3	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+16149102	ID:3	RPL: DIO option 4, length: 14
+16155160	ID:3	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+16157387	ID:3	RPL: DIO option 8, length: 30
+16159655	ID:3	RPL: Copying prefix information
+16167347	ID:3	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:7, c1:0c:00:00:00:00:00:07
+16177704	ID:9	RPL: Received a DIO from fe80::c30c:0:0:7
+16181473	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,494)
+16186028	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+16186247	ID:5	RPL: Received a DIO from fe80::c30c:0:0:7
+16188253	ID:9	RPL: DIO option 4, length: 14
+16190016	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,494)
+16194273	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+16194600	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+16196499	ID:9	RPL: DIO option 8, length: 30
+16196826	ID:5	RPL: DIO option 4, length: 14
+16198788	ID:9	RPL: Copying prefix information
+16202873	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+16205099	ID:5	RPL: DIO option 8, length: 30
+16207368	ID:5	RPL: Copying prefix information
+16207500	ID:9	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:7, c1:0c:00:00:00:00:00:07
+16215065	ID:5	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:7, c1:0c:00:00:00:00:00:07
+16313189	ID:8	RPL: Sending prefix info in DIO for aaaa::
+16316357	ID:8	RPL: Sending a multicast-DIO with rank 537
+16360359	ID:0	RPL: Received a DIO from fe80::c30c:0:0:8
+16364129	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,537)
+16368721	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+16370947	ID:0	RPL: DIO option 4, length: 14
+16376993	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+16377623	ID:1	RPL: Received a DIO from fe80::c30c:0:0:8
+16379219	ID:0	RPL: DIO option 8, length: 30
+16381393	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,537)
+16381488	ID:0	RPL: Copying prefix information
+16385947	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+16388173	ID:1	RPL: DIO option 4, length: 14
+16390983	ID:0	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:8, c1:0c:00:00:00:00:00:08
+16394227	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+16396453	ID:1	RPL: DIO option 8, length: 30
+16398722	ID:1	RPL: Copying prefix information
+16407434	ID:1	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:8, c1:0c:00:00:00:00:00:08
+16425264	ID:9	RPL: Received a DIO from fe80::c30c:0:0:8
+16429049	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,537)
+16432856	ID:10	RPL: Sending a DAO with sequence number 242, lifetime 30, prefix aaaa::c30c:0:0:a to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+16433642	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+16433881	ID:5	RPL: Received a DIO from fe80::c30c:0:0:8
+16435867	ID:9	RPL: DIO option 4, length: 14
+16437688	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,537)
+16441891	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+16442242	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+16442452	ID:11	RPL: Received a DIO from fe80::c30c:0:0:8
+16444117	ID:9	RPL: DIO option 8, length: 30
+16444500	ID:5	RPL: DIO option 4, length: 14
+16446222	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,537)
+16446386	ID:9	RPL: Copying prefix information
+16450520	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+16450776	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+16452790	ID:5	RPL: DIO option 8, length: 30
+16453002	ID:11	RPL: DIO option 4, length: 14
+16455058	ID:5	RPL: Copying prefix information
+16455485	ID:9	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:8, c1:0c:00:00:00:00:00:08
+16458610	ID:8	RPL: Sending prefix info in DIO for aaaa::
+16459027	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+16461253	ID:11	RPL: DIO option 8, length: 30
+16463110	ID:5	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:8, c1:0c:00:00:00:00:00:08
+16463393	ID:8	RPL: Sending unicast-DIO with rank 537 to fe80::c30c:0:0:0
+16463522	ID:11	RPL: Copying prefix information
+16471926	ID:11	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:8, c1:0c:00:00:00:00:00:08
+16518531	ID:2	RPL: Sending a DAO with sequence number 243, lifetime 30, prefix aaaa::c30c:0:0:2 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+16608778	ID:0	RPL: Received a DAO from fe80::c30c:0:0:a
+16614885	ID:0	RPL: Received a (unicast) DAO with sequence number 242 from fe80::c30c:0:0:a
+16616373	ID:9	RPL: Sending prefix info in DIO for aaaa::
+16619541	ID:9	RPL: Sending a multicast-DIO with rank 299
+16621269	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:a
+16623038	ID:0	RPL: Adding DAO route
+16684442	ID:5	RPL: Received a DIO from fe80::c30c:0:0:9
+16688211	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,299)
+16692765	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+16695018	ID:5	RPL: DIO option 4, length: 14
+16701038	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+16703264	ID:5	RPL: DIO option 8, length: 30
+16705533	ID:5	RPL: Copying prefix information
+16728206	ID:3	RPL: Sending prefix info in DIO for aaaa::
+16731374	ID:3	RPL: Sending a multicast-DIO with rank 601
+16821810	ID:3	RPL: Sending a DAO with sequence number 242, lifetime 30, prefix aaaa::c30c:0:0:3 to fe80::c30c:0:0:2 , parent fe80::c30c:0:0:2
+16856764	ID:0	RPL: Received a DAO from fe80::c30c:0:0:2
+16862893	ID:0	RPL: Received a (unicast) DAO with sequence number 243 from fe80::c30c:0:0:2
+16868603	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:2
+16870337	ID:0	RPL: Adding DAO route
+16944340	ID:9	RPL: Sending a DAO with sequence number 243, lifetime 30, prefix aaaa::c30c:0:0:9 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+16992187	ID:1	RPL: Sending prefix info in DIO for aaaa::
+16997435	ID:1	RPL: Sending unicast-DIO with rank 318 to fe80::c30c:0:0:0
+17424007	ID:5	RPL: Sending prefix info in DIO for aaaa::
+17427794	ID:5	RPL: Sending a multicast-DIO with rank 516
+17546125	ID:1	RPL: Sending prefix info in DIO for aaaa::
+17549294	ID:1	RPL: Sending a multicast-DIO with rank 318
+17792245	ID:2	RPL: Sending prefix info in DIO for aaaa::
+17797065	ID:2	RPL: Sending unicast-DIO with rank 350 to fe80::c30c:0:0:0
+17977359	ID:8	RPL: Sending a DAO with sequence number 242, lifetime 30, prefix aaaa::c30c:0:0:8 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+18035362	ID:6	RPL: Sending prefix info in DIO for aaaa::
+18038531	ID:6	RPL: Sending a multicast-DIO with rank 737
+18233648	ID:0	RPL: Received a DAO from fe80::c30c:0:0:9
+18239742	ID:0	RPL: Received a (unicast) DAO with sequence number 243 from fe80::c30c:0:0:9
+18245983	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:9
+18247752	ID:0	RPL: Adding DAO route
+18265382	ID:7	RPL: Sending a DAO with sequence number 242, lifetime 30, prefix aaaa::c30c:0:0:7 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+18544493	ID:1	RPL: Sending a DAO with sequence number 243, lifetime 30, prefix aaaa::c30c:0:0:1 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+18798861	ID:5	RPL: Sending a DAO with sequence number 242, lifetime 30, prefix aaaa::c30c:0:0:5 to fe80::c30c:0:0:9 , parent fe80::c30c:0:0:9
+19152615	ID:4	RPL: Sending prefix info in DIO for aaaa::
+19155783	ID:4	RPL: Sending a multicast-DIO with rank 562
+19230917	ID:0	RPL: Received a DAO from fe80::c30c:0:0:1
+19237039	ID:0	RPL: Received a (unicast) DAO with sequence number 243 from fe80::c30c:0:0:1
+19243075	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:1
+19244879	ID:0	RPL: Adding DAO route
+19357886	ID:0	RPL: Received a DAO from fe80::c30c:0:0:7
+19363979	ID:0	RPL: Received a (unicast) DAO with sequence number 242 from fe80::c30c:0:0:7
+19370560	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:7
+19372337	ID:0	RPL: Adding DAO route
+19564193	ID:11	RPL: Received a DIO from fe80::c30c:0:0:4
+19567962	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,562)
+19572516	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+19574742	ID:11	RPL: DIO option 4, length: 14
+19580762	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+19582988	ID:11	RPL: DIO option 8, length: 30
+19585257	ID:11	RPL: Copying prefix information
+19637492	ID:1	RPL: Received a DIO from fe80::c30c:0:0:4
+19641261	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,562)
+19645828	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+19648053	ID:1	RPL: DIO option 4, length: 14
+19654088	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+19656314	ID:1	RPL: DIO option 8, length: 30
+19658582	ID:1	RPL: Copying prefix information
+19857208	ID:0	RPL: Received a DIO from fe80::c30c:0:0:8
+19860978	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,537)
+19865532	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+19867768	ID:0	RPL: DIO option 4, length: 14
+19873788	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+19876033	ID:0	RPL: DIO option 8, length: 30
+19878302	ID:0	RPL: Copying prefix information
+20119131	ID:3	RPL: Sending prefix info in DIO for aaaa::
+20123915	ID:3	RPL: Sending unicast-DIO with rank 754 to fe80::c30c:0:0:2
+21050855	ID:6	RPL: Sending a DAO with sequence number 241, lifetime 30, prefix aaaa::c30c:0:0:6 to fe80::c30c:0:0:a , parent fe80::c30c:0:0:a
+22012940	ID:4	RPL: Sending prefix info in DIO for aaaa::
+22017761	ID:4	RPL: Sending unicast-DIO with rank 562 to fe80::c30c:0:0:1
+22944193	ID:11	RPL: Sending prefix info in DIO for aaaa::
+22948976	ID:11	RPL: Sending unicast-DIO with rank 318 to fe80::c30c:0:0:0
+24231106	ID:4	RPL: Sending prefix info in DIO for aaaa::
+24235928	ID:4	RPL: Sending unicast-DIO with rank 721 to fe80::c30c:0:0:b
+25322753	ID:5	RPL: Sending prefix info in DIO for aaaa::
+25327574	ID:5	RPL: Sending unicast-DIO with rank 675 to fe80::c30c:0:0:9
+25335454	ID:9	RPL: Sending prefix info in DIO for aaaa::
+25340276	ID:9	RPL: Sending unicast-DIO with rank 557 to fe80::c30c:0:0:0
+25720904	ID:4	RPL: Sending a No-Path DAO with sequence number 242, lifetime 0, prefix aaaa::c30c:0:0:4 to fe80::c30c:0:0:1 , parent fe80::c30c:0:0:1
+26285329	ID:6	RPL: Sending prefix info in DIO for aaaa::
+26288610	ID:6	RPL: Sending a multicast-DIO with rank 1020
+26751653	ID:1	RPL: Received a DAO from fe80::c30c:0:0:4
+26757747	ID:1	RPL: Received a (unicast) DAO with sequence number 242 from fe80::c30c:0:0:4
+26763535	ID:1	RPL: DAO lifetime: 0, prefix length: 128 prefix: aaaa::c30c:0:0:4
+26765378	ID:1	RPL: No-Path DAO received
+26770305	ID:1	RPL: Setting expiration timer for prefix aaaa::c30c:0:0:4
+26775988	ID:1	RPL: Forwarding No-path DAO to parent - out_seq:244fe80::c30c:0:0:0
+27231333	ID:0	RPL: Received a DAO from fe80::c30c:0:0:1
+27237465	ID:0	RPL: Received a (unicast) DAO with sequence number 244 from fe80::c30c:0:0:1
+27243426	ID:0	RPL: DAO lifetime: 0, prefix length: 128 prefix: aaaa::c30c:0:0:4
+27245480	ID:0	RPL: No-Path DAO received
+27250439	ID:0	RPL: Setting expiration timer for prefix aaaa::c30c:0:0:4
+27608254	ID:0	RPL: Received a DIO from fe80::c30c:0:0:9
+27612025	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,557)
+27616579	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+27618805	ID:0	RPL: DIO option 4, length: 14
+27624863	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+27627089	ID:0	RPL: DIO option 8, length: 30
+27629358	ID:0	RPL: Copying prefix information
+27651310	ID:2	RPL: Sending prefix info in DIO for aaaa::
+27654477	ID:2	RPL: Sending a multicast-DIO with rank 643
+27697659	ID:7	RPL: Received a DIO from fe80::c30c:0:0:2
+27701427	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,643)
+27705982	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+27708237	ID:7	RPL: DIO option 4, length: 14
+27714257	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+27716484	ID:7	RPL: DIO option 8, length: 30
+27718752	ID:7	RPL: Copying prefix information
+27732540	ID:0	RPL: Received a DIO from fe80::c30c:0:0:2
+27736310	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,643)
+27740864	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+27741003	ID:10	RPL: Received a DIO from fe80::c30c:0:0:2
+27743090	ID:0	RPL: DIO option 4, length: 14
+27744796	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,643)
+27749110	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+27749350	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+27751336	ID:0	RPL: DIO option 8, length: 30
+27751576	ID:10	RPL: DIO option 4, length: 14
+27753605	ID:0	RPL: Copying prefix information
+27757634	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+27759860	ID:10	RPL: DIO option 8, length: 30
+27762129	ID:10	RPL: Copying prefix information
+27762638	ID:3	RPL: Received a DIO from fe80::c30c:0:0:2
+27766406	ID:3	RPL: Incoming DIO (id, ver, rank) = (30,240,643)
+27770961	ID:3	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+27773225	ID:3	RPL: DIO option 4, length: 14
+27779245	ID:3	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+27781471	ID:3	RPL: DIO option 8, length: 30
+27783739	ID:3	RPL: Copying prefix information
+27894669	ID:4	RPL: Sending a DAO with sequence number 243, lifetime 30, prefix aaaa::c30c:0:0:4 to fe80::c30c:0:0:b , parent fe80::c30c:0:0:b
+27931668	ID:3	RPL: Sending prefix info in DIO for aaaa::
+27936600	ID:3	RPL: Sending unicast-DIO with rank 1293 to fe80::c30c:0:0:7
+27948967	ID:0	RPL: Sending prefix info in DIO for aaaa::
+27952134	ID:0	RPL: Sending a multicast-DIO with rank 128
+28182144	ID:5	RPL: Sending prefix info in DIO for aaaa::
+28186965	ID:5	RPL: Sending unicast-DIO with rank 925 to fe80::c30c:0:0:7
+28209865	ID:7	RPL: Received a DIO from fe80::c30c:0:0:3
+28213746	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,1293)
+28218307	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+28220533	ID:7	RPL: DIO option 4, length: 14
+28226566	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+28228792	ID:7	RPL: DIO option 8, length: 30
+28231083	ID:7	RPL: Copying prefix information
+28239466	ID:7	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:3, c1:0c:00:00:00:00:00:03
+28324353	ID:7	RPL: Received a DIO from fe80::c30c:0:0:5
+28328122	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,925)
+28332715	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+28334941	ID:7	RPL: DIO option 4, length: 14
+28340961	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+28343187	ID:7	RPL: DIO option 8, length: 30
+28345455	ID:7	RPL: Copying prefix information
+28354168	ID:7	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:5, c1:0c:00:00:00:00:00:05
+28409378	ID:10	RPL: Sending prefix info in DIO for aaaa::
+28412547	ID:10	RPL: Sending a multicast-DIO with rank 472
+28563921	ID:11	RPL: Received a DAO from fe80::c30c:0:0:4
+28570030	ID:11	RPL: Received a (unicast) DAO with sequence number 243 from fe80::c30c:0:0:4
+28575931	ID:11	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:4
+28577491	ID:11	RPL: Adding DAO route
+28585486	ID:11	RPL: Forwarding DAO to parent fe80::c30c:0:0:0 in seq: 243 out seq: 243
+28743734	ID:8	RPL: Sending prefix info in DIO for aaaa::
+28749012	ID:8	RPL: Sending unicast-DIO with rank 762 to fe80::c30c:0:0:b
+28931330	ID:3	RPL: Sending prefix info in DIO for aaaa::
+28934609	ID:3	RPL: Sending a multicast-DIO with rank 1293
+28940004	ID:11	RPL: Received a DIO from fe80::c30c:0:0:8
+28943804	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,762)
+28948397	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+28950622	ID:11	RPL: DIO option 4, length: 14
+28956651	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+28958877	ID:11	RPL: DIO option 8, length: 30
+28961145	ID:11	RPL: Copying prefix information
+28982253	ID:2	RPL: Received a DIO from fe80::c30c:0:0:3
+28986134	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,1293)
+28990688	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+28992919	ID:2	RPL: DIO option 4, length: 14
+28998939	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+29001166	ID:2	RPL: DIO option 8, length: 30
+29003434	ID:2	RPL: Copying prefix information
+29048004	ID:8	RPL: Sending prefix info in DIO for aaaa::
+29052826	ID:8	RPL: Sending unicast-DIO with rank 762 to fe80::c30c:0:0:b
+29191294	ID:11	RPL: Received a DIO from fe80::c30c:0:0:8
+29195064	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,762)
+29199618	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+29201844	ID:11	RPL: DIO option 4, length: 14
+29207902	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+29210128	ID:11	RPL: DIO option 8, length: 30
+29212397	ID:11	RPL: Copying prefix information
+29230761	ID:4	RPL: Sending prefix info in DIO for aaaa::
+29233930	ID:4	RPL: Sending a multicast-DIO with rank 788
+29255383	ID:1	RPL: Received a DIO from fe80::c30c:0:0:4
+29259154	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,788)
+29263708	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+29265934	ID:1	RPL: DIO option 4, length: 14
+29271992	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+29274218	ID:1	RPL: DIO option 8, length: 30
+29276487	ID:1	RPL: Copying prefix information
+29316074	ID:11	RPL: Received a DIO from fe80::c30c:0:0:4
+29319844	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,788)
+29324436	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+29326662	ID:11	RPL: DIO option 4, length: 14
+29332682	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+29334908	ID:11	RPL: DIO option 8, length: 30
+29337177	ID:11	RPL: Copying prefix information
+29727247	ID:8	RPL: Sending prefix info in DIO for aaaa::
+29730416	ID:8	RPL: Sending a multicast-DIO with rank 762
+29752027	ID:1	RPL: Received a DIO from fe80::c30c:0:0:8
+29755807	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,762)
+29760361	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+29762587	ID:1	RPL: DIO option 4, length: 14
+29768607	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+29770833	ID:1	RPL: DIO option 8, length: 30
+29773102	ID:1	RPL: Copying prefix information
+29799565	ID:9	RPL: Received a DIO from fe80::c30c:0:0:8
+29803338	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,762)
+29807892	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+29808375	ID:5	RPL: Received a DIO from fe80::c30c:0:0:8
+29810118	ID:9	RPL: DIO option 4, length: 14
+29812183	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,762)
+29816176	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+29816738	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+29816948	ID:11	RPL: Received a DIO from fe80::c30c:0:0:8
+29818402	ID:9	RPL: DIO option 8, length: 30
+29819001	ID:5	RPL: DIO option 4, length: 14
+29820671	ID:9	RPL: Copying prefix information
+29820718	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,762)
+29825021	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+29825272	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+29827247	ID:5	RPL: DIO option 8, length: 30
+29827498	ID:11	RPL: DIO option 4, length: 14
+29829516	ID:5	RPL: Copying prefix information
+29833518	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+29835744	ID:11	RPL: DIO option 8, length: 30
+29838012	ID:11	RPL: Copying prefix information
+29860588	ID:0	RPL: Received a DIO from fe80::c30c:0:0:8
+29864358	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,762)
+29868912	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+29871138	ID:0	RPL: DIO option 4, length: 14
+29877158	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+29879384	ID:0	RPL: DIO option 8, length: 30
+29881653	ID:0	RPL: Copying prefix information
+29962947	ID:3	RPL: Sending prefix info in DIO for aaaa::
+29967880	ID:3	RPL: Sending unicast-DIO with rank 1293 to fe80::c30c:0:0:7
+30072770	ID:7	RPL: Received a DIO from fe80::c30c:0:0:3
+30076653	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,1293)
+30081208	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+30083451	ID:7	RPL: DIO option 4, length: 14
+30089471	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+30091697	ID:7	RPL: DIO option 8, length: 30
+30093965	ID:7	RPL: Copying prefix information
+30186724	ID:1	RPL: Sending prefix info in DIO for aaaa::
+30189892	ID:1	RPL: Sending a multicast-DIO with rank 465
+30211363	ID:4	RPL: Received a DIO from fe80::c30c:0:0:1
+30215132	ID:4	RPL: Incoming DIO (id, ver, rank) = (30,240,465)
+30219686	ID:4	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+30221912	ID:4	RPL: DIO option 4, length: 14
+30227970	ID:4	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+30230197	ID:4	RPL: DIO option 8, length: 30
+30232465	ID:4	RPL: Copying prefix information
+30233225	ID:0	RPL: Received a DIO from fe80::c30c:0:0:1
+30237022	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,465)
+30241576	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+30242422	ID:10	RPL: Received a DIO from fe80::c30c:0:0:1
+30243802	ID:0	RPL: DIO option 4, length: 14
+30246191	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,465)
+30249860	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+30250784	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+30252086	ID:0	RPL: DIO option 8, length: 30
+30253010	ID:10	RPL: DIO option 4, length: 14
+30254355	ID:0	RPL: Copying prefix information
+30254880	ID:8	RPL: Received a DIO from fe80::c30c:0:0:1
+30258683	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,465)
+30259030	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+30261256	ID:10	RPL: DIO option 8, length: 30
+30263276	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+30263524	ID:10	RPL: Copying prefix information
+30265501	ID:8	RPL: DIO option 4, length: 14
+30271526	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+30272275	ID:10	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:1, c1:0c:00:00:00:00:00:01
+30273752	ID:8	RPL: DIO option 8, length: 30
+30276021	ID:8	RPL: Copying prefix information
+30284153	ID:8	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:1, c1:0c:00:00:00:00:00:01
+30316076	ID:11	RPL: Received a DIO from fe80::c30c:0:0:1
+30319845	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,465)
+30324437	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+30326663	ID:11	RPL: DIO option 4, length: 14
+30332683	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+30334909	ID:11	RPL: DIO option 8, length: 30
+30337178	ID:11	RPL: Copying prefix information
+30345928	ID:11	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:1, c1:0c:00:00:00:00:00:01
+30485405	ID:0	RPL: Received a DIO from fe80::c30c:0:0:b
+30489176	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,318)
+30493768	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+30495994	ID:0	RPL: DIO option 4, length: 14
+30502014	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+30504240	ID:0	RPL: DIO option 8, length: 30
+30506509	ID:0	RPL: Copying prefix information
+30523155	ID:7	RPL: Sending prefix info in DIO for aaaa::
+30526323	ID:7	RPL: Sending a multicast-DIO with rank 656
+30732568	ID:0	RPL: Received a DAO from fe80::c30c:0:0:b
+30738676	ID:0	RPL: Received a (unicast) DAO with sequence number 243 from fe80::c30c:0:0:b
+30744564	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:4
+30746160	ID:0	RPL: Adding DAO route
+31061255	ID:11	RPL: Sending prefix info in DIO for aaaa::
+31064424	ID:11	RPL: Sending a multicast-DIO with rank 318
+31085897	ID:4	RPL: Received a DIO from fe80::c30c:0:0:b
+31089680	ID:4	RPL: Incoming DIO (id, ver, rank) = (30,240,318)
+31094234	ID:4	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+31096460	ID:4	RPL: DIO option 4, length: 14
+31102518	ID:4	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+31104744	ID:4	RPL: DIO option 8, length: 30
+31107013	ID:4	RPL: Copying prefix information
+31107537	ID:0	RPL: Received a DIO from fe80::c30c:0:0:b
+31111311	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,318)
+31115866	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+31116307	ID:10	RPL: Received a DIO from fe80::c30c:0:0:b
+31118091	ID:0	RPL: DIO option 4, length: 14
+31120083	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,318)
+31124111	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+31124637	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+31126338	ID:0	RPL: DIO option 8, length: 30
+31126863	ID:10	RPL: DIO option 4, length: 14
+31128606	ID:0	RPL: Copying prefix information
+31129263	ID:8	RPL: Received a DIO from fe80::c30c:0:0:b
+31129440	ID:1	RPL: Received a DIO from fe80::c30c:0:0:b
+31132883	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+31133044	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,318)
+31133211	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,318)
+31135109	ID:10	RPL: DIO option 8, length: 30
+31137377	ID:10	RPL: Copying prefix information
+31137598	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+31137802	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+31139824	ID:8	RPL: DIO option 4, length: 14
+31140027	ID:1	RPL: DIO option 4, length: 14
+31145882	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+31146086	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+31148108	ID:8	RPL: DIO option 8, length: 30
+31148312	ID:1	RPL: DIO option 8, length: 30
+31150377	ID:8	RPL: Copying prefix information
+31150580	ID:1	RPL: Copying prefix information
+31177037	ID:9	RPL: Received a DIO from fe80::c30c:0:0:b
+31180807	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,318)
+31185370	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+31187595	ID:9	RPL: DIO option 4, length: 14
+31193615	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+31195842	ID:9	RPL: DIO option 8, length: 30
+31198110	ID:9	RPL: Copying prefix information
+31260269	ID:5	RPL: Sending prefix info in DIO for aaaa::
+31265090	ID:5	RPL: Sending unicast-DIO with rank 925 to fe80::c30c:0:0:7
+31324282	ID:7	RPL: Received a DIO from fe80::c30c:0:0:5
+31328052	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,925)
+31332639	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+31334865	ID:7	RPL: DIO option 4, length: 14
+31340885	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+31343111	ID:7	RPL: DIO option 8, length: 30
+31345380	ID:7	RPL: Copying prefix information
+31451994	ID:11	RPL: Sending prefix info in DIO for aaaa::
+31456777	ID:11	RPL: Sending unicast-DIO with rank 318 to fe80::c30c:0:0:0
+31462079	ID:8	RPL: Sending prefix info in DIO for aaaa::
+31466906	ID:8	RPL: Sending unicast-DIO with rank 762 to fe80::c30c:0:0:b
+31482544	ID:0	RPL: Received a DIO from fe80::c30c:0:0:b
+31486315	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,318)
+31490869	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+31493095	ID:0	RPL: DIO option 4, length: 14
+31499115	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+31501341	ID:0	RPL: DIO option 8, length: 30
+31503609	ID:0	RPL: Copying prefix information
+31566931	ID:11	RPL: Received a DIO from fe80::c30c:0:0:8
+31570701	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,762)
+31575268	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+31577493	ID:11	RPL: DIO option 4, length: 14
+31583513	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+31585740	ID:11	RPL: DIO option 8, length: 30
+31588008	ID:11	RPL: Copying prefix information
+32061675	ID:9	RPL: Sending prefix info in DIO for aaaa::
+32064844	ID:9	RPL: Sending a multicast-DIO with rank 511
+32108246	ID:0	RPL: Received a DIO from fe80::c30c:0:0:9
+32112023	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,511)
+32116577	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+32116914	ID:10	RPL: Received a DIO from fe80::c30c:0:0:9
+32118803	ID:0	RPL: DIO option 4, length: 14
+32120684	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,511)
+32124861	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+32125277	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+32127087	ID:0	RPL: DIO option 8, length: 30
+32127503	ID:10	RPL: DIO option 4, length: 14
+32129356	ID:0	RPL: Copying prefix information
+32129885	ID:8	RPL: Received a DIO from fe80::c30c:0:0:9
+32133523	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+32133684	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,511)
+32135749	ID:10	RPL: DIO option 8, length: 30
+32138017	ID:10	RPL: Copying prefix information
+32138276	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+32140502	ID:8	RPL: DIO option 4, length: 14
+32146526	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+32148752	ID:8	RPL: DIO option 8, length: 30
+32151021	ID:8	RPL: Copying prefix information
+32185945	ID:5	RPL: Received a DIO from fe80::c30c:0:0:9
+32189746	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,511)
+32191090	ID:11	RPL: Received a DIO from fe80::c30c:0:0:9
+32194339	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+32194860	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,511)
+32196564	ID:5	RPL: DIO option 4, length: 14
+32199453	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+32201678	ID:11	RPL: DIO option 4, length: 14
+32202588	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+32204814	ID:5	RPL: DIO option 8, length: 30
+32207083	ID:5	RPL: Copying prefix information
+32207698	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+32208742	ID:7	RPL: Received a DIO from fe80::c30c:0:0:9
+32209924	ID:11	RPL: DIO option 8, length: 30
+32212193	ID:11	RPL: Copying prefix information
+32212512	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,511)
+32217098	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+32219324	ID:7	RPL: DIO option 4, length: 14
+32221292	ID:11	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:9, c1:0c:00:00:00:00:00:09
+32225344	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+32227570	ID:7	RPL: DIO option 8, length: 30
+32229839	ID:7	RPL: Copying prefix information
+33252412	ID:3	RPL: Sending prefix info in DIO for aaaa::
+33257776	ID:3	RPL: Sending unicast-DIO with rank 1293 to fe80::c30c:0:0:7
+33325499	ID:7	RPL: Received a DIO from fe80::c30c:0:0:3
+33329380	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,1293)
+33333973	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+33336198	ID:7	RPL: DIO option 4, length: 14
+33342224	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+33344450	ID:7	RPL: DIO option 8, length: 30
+33346718	ID:7	RPL: Copying prefix information
+33773045	ID:3	RPL: Sending a No-Path DAO with sequence number 243, lifetime 0, prefix aaaa::c30c:0:0:3 to fe80::c30c:0:0:2 , parent fe80::c30c:0:0:2
+33856521	ID:2	RPL: Received a DAO from fe80::c30c:0:0:3
+33862614	ID:2	RPL: Received a (unicast) DAO with sequence number 243 from fe80::c30c:0:0:3
+33868588	ID:2	RPL: DAO lifetime: 0, prefix length: 128 prefix: aaaa::c30c:0:0:3
+33870431	ID:2	RPL: No-Path DAO received
+33875429	ID:2	RPL: Setting expiration timer for prefix aaaa::c30c:0:0:3
+33881112	ID:2	RPL: Forwarding No-path DAO to parent - out_seq:244fe80::c30c:0:0:0
+33983936	ID:0	RPL: Received a DAO from fe80::c30c:0:0:2
+33990068	ID:0	RPL: Received a (unicast) DAO with sequence number 244 from fe80::c30c:0:0:2
+33995644	ID:0	RPL: DAO lifetime: 0, prefix length: 128 prefix: aaaa::c30c:0:0:3
+33997767	ID:0	RPL: No-Path DAO received
+34002647	ID:0	RPL: Setting expiration timer for prefix aaaa::c30c:0:0:3
+34854019	ID:5	RPL: Sending prefix info in DIO for aaaa::
+34858953	ID:5	RPL: Sending unicast-DIO with rank 1137 to fe80::c30c:0:0:7
+34951521	ID:7	RPL: Received a DIO from fe80::c30c:0:0:5
+34955403	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,1137)
+34959996	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+34962222	ID:7	RPL: DIO option 4, length: 14
+34968259	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+34970485	ID:7	RPL: DIO option 8, length: 30
+34972775	ID:7	RPL: Copying prefix information
+35449492	ID:4	RPL: Sending prefix info in DIO for aaaa::
+35453557	ID:4	RPL: Sending a multicast-DIO with rank 761
+35505443	ID:1	RPL: Received a DIO from fe80::c30c:0:0:4
+35509213	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,761)
+35513768	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+35515993	ID:1	RPL: DIO option 4, length: 14
+35522026	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+35524252	ID:1	RPL: DIO option 8, length: 30
+35526521	ID:1	RPL: Copying prefix information
+35566167	ID:11	RPL: Received a DIO from fe80::c30c:0:0:4
+35569937	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,761)
+35574530	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+35576756	ID:11	RPL: DIO option 4, length: 14
+35582814	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+35585040	ID:11	RPL: DIO option 8, length: 30
+35587309	ID:11	RPL: Copying prefix information
+35869318	ID:5	RPL: Sending prefix info in DIO for aaaa::
+35872599	ID:5	RPL: Sending a multicast-DIO with rank 1137
+35924648	ID:9	RPL: Received a DIO from fe80::c30c:0:0:5
+35928530	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,1137)
+35933085	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+35935318	ID:9	RPL: DIO option 4, length: 14
+35941338	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+35943564	ID:9	RPL: DIO option 8, length: 30
+35945832	ID:9	RPL: Copying prefix information
+35950428	ID:7	RPL: Received a DIO from fe80::c30c:0:0:5
+35954311	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,1137)
+35958903	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+35961129	ID:7	RPL: DIO option 4, length: 14
+35967153	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+35969379	ID:7	RPL: DIO option 8, length: 30
+35971647	ID:7	RPL: Copying prefix information
+36006956	ID:8	RPL: Received a DIO from fe80::c30c:0:0:5
+36010838	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,1137)
+36015431	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+36017657	ID:8	RPL: DIO option 4, length: 14
+36023693	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+36025919	ID:8	RPL: DIO option 8, length: 30
+36028188	ID:8	RPL: Copying prefix information
+37138000	ID:6	RPL: Sending prefix info in DIO for aaaa::
+37141705	ID:6	RPL: Sending a multicast-DIO with rank 1020
+37385132	ID:3	RPL: Sending prefix info in DIO for aaaa::
+37388300	ID:3	RPL: Sending a multicast-DIO with rank 697
+38756311	ID:3	RPL: Sending a DAO with sequence number 244, lifetime 30, prefix aaaa::c30c:0:0:3 to fe80::c30c:0:0:7 , parent fe80::c30c:0:0:7
+40073592	ID:7	RPL: Received a DAO from fe80::c30c:0:0:3
+40079688	ID:7	RPL: Received a (unicast) DAO with sequence number 244 from fe80::c30c:0:0:3
+40085937	ID:7	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:3
+40087497	ID:7	RPL: Adding DAO route
+40096166	ID:7	RPL: Forwarding DAO to parent fe80::c30c:0:0:0 in seq: 244 out seq: 243
+40232456	ID:0	RPL: Received a DAO from fe80::c30c:0:0:7
+40238549	ID:0	RPL: Received a (unicast) DAO with sequence number 243 from fe80::c30c:0:0:7
+40245134	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:3
+40246729	ID:0	RPL: Adding DAO route
+41799822	ID:5	RPL: Sending prefix info in DIO for aaaa::
+41805137	ID:5	RPL: Sending unicast-DIO with rank 1235 to fe80::c30c:0:0:7
+41947468	ID:7	RPL: Received a DIO from fe80::c30c:0:0:5
+41951370	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,1235)
+41955924	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+41958189	ID:7	RPL: DIO option 4, length: 14
+41964208	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+41966435	ID:7	RPL: DIO option 8, length: 30
+41968703	ID:7	RPL: Copying prefix information
+42447352	ID:5	RPL: Sending a No-Path DAO with sequence number 243, lifetime 0, prefix aaaa::c30c:0:0:5 to fe80::c30c:0:0:9 , parent fe80::c30c:0:0:9
+42547527	ID:9	RPL: Received a DAO from fe80::c30c:0:0:5
+42553638	ID:9	RPL: Received a (unicast) DAO with sequence number 243 from fe80::c30c:0:0:5
+42559253	ID:9	RPL: DAO lifetime: 0, prefix length: 128 prefix: aaaa::c30c:0:0:5
+42561096	ID:9	RPL: No-Path DAO received
+42565976	ID:9	RPL: Setting expiration timer for prefix aaaa::c30c:0:0:5
+42571700	ID:9	RPL: Forwarding No-path DAO to parent - out_seq:244fe80::c30c:0:0:0
+42608267	ID:0	RPL: Received a DAO from fe80::c30c:0:0:9
+42614386	ID:0	RPL: Received a (unicast) DAO with sequence number 244 from fe80::c30c:0:0:9
+42620489	ID:0	RPL: DAO lifetime: 0, prefix length: 128 prefix: aaaa::c30c:0:0:5
+42622613	ID:0	RPL: No-Path DAO received
+42627624	ID:0	RPL: Setting expiration timer for prefix aaaa::c30c:0:0:5
+43907398	ID:8	RPL: Sending prefix info in DIO for aaaa::
+43912220	ID:8	RPL: Sending unicast-DIO with rank 858 to fe80::c30c:0:0:b
+43938767	ID:11	RPL: Received a DIO from fe80::c30c:0:0:8
+43942536	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,858)
+43947091	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+43949316	ID:11	RPL: DIO option 4, length: 14
+43955336	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+43957601	ID:11	RPL: DIO option 8, length: 30
+43959869	ID:11	RPL: Copying prefix information
+44021901	ID:8	RPL: Sending a No-Path DAO with sequence number 243, lifetime 0, prefix aaaa::c30c:0:0:8 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+44106154	ID:0	RPL: Received a DAO from fe80::c30c:0:0:8
+44112252	ID:0	RPL: Received a (unicast) DAO with sequence number 243 from fe80::c30c:0:0:8
+44118888	ID:0	RPL: DAO lifetime: 0, prefix length: 128 prefix: aaaa::c30c:0:0:8
+44120981	ID:0	RPL: No-Path DAO received
+44939126	ID:3	RPL: Sending prefix info in DIO for aaaa::
+44942296	ID:3	RPL: Sending a multicast-DIO with rank 957
+44985421	ID:2	RPL: Received a DIO from fe80::c30c:0:0:3
+44989192	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,957)
+44993755	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+44995981	ID:2	RPL: DIO option 4, length: 14
+45002001	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+45004227	ID:2	RPL: DIO option 8, length: 30
+45006495	ID:2	RPL: Copying prefix information
+45076456	ID:7	RPL: Received a DIO from fe80::c30c:0:0:3
+45080226	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,957)
+45084784	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+45087009	ID:7	RPL: DIO option 4, length: 14
+45093045	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+45095271	ID:7	RPL: DIO option 8, length: 30
+45097540	ID:7	RPL: Copying prefix information
+46111523	ID:5	RPL: Sending prefix info in DIO for aaaa::
+46114691	ID:5	RPL: Sending a multicast-DIO with rank 658
+46175088	ID:9	RPL: Received a DIO from fe80::c30c:0:0:5
+46178857	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,658)
+46183411	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+46185637	ID:9	RPL: DIO option 4, length: 14
+46191695	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+46193922	ID:9	RPL: DIO option 8, length: 30
+46196190	ID:9	RPL: Copying prefix information
+46201249	ID:7	RPL: Received a DIO from fe80::c30c:0:0:5
+46205018	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,658)
+46209572	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+46211798	ID:7	RPL: DIO option 4, length: 14
+46217832	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+46219462	ID:8	RPL: Sending prefix info in DIO for aaaa::
+46220058	ID:7	RPL: DIO option 8, length: 30
+46222327	ID:7	RPL: Copying prefix information
+46222629	ID:8	RPL: Sending a multicast-DIO with rank 482
+46310551	ID:5	RPL: Received a DIO from fe80::c30c:0:0:8
+46314319	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,482)
+46314843	ID:11	RPL: Received a DIO from fe80::c30c:0:0:8
+46318612	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,482)
+46318873	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+46321101	ID:5	RPL: DIO option 4, length: 14
+46323203	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+46325429	ID:11	RPL: DIO option 4, length: 14
+46327121	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+46329347	ID:5	RPL: DIO option 8, length: 30
+46331449	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+46331616	ID:5	RPL: Copying prefix information
+46333675	ID:11	RPL: DIO option 8, length: 30
+46335943	ID:11	RPL: Copying prefix information
+46358236	ID:0	RPL: Received a DIO from fe80::c30c:0:0:8
+46362021	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,482)
+46366575	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+46368801	ID:0	RPL: DIO option 4, length: 14
+46374859	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+46377085	ID:0	RPL: DIO option 8, length: 30
+46379354	ID:0	RPL: Copying prefix information
+46380086	ID:1	RPL: Received a DIO from fe80::c30c:0:0:8
+46383854	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,482)
+46388408	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+46390634	ID:1	RPL: DIO option 4, length: 14
+46396654	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+46398880	ID:1	RPL: DIO option 8, length: 30
+46401149	ID:1	RPL: Copying prefix information
+46427676	ID:9	RPL: Received a DIO from fe80::c30c:0:0:8
+46431444	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,482)
+46436010	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+46438236	ID:9	RPL: DIO option 4, length: 14
+46444271	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+46446497	ID:9	RPL: DIO option 8, length: 30
+46448787	ID:9	RPL: Copying prefix information
+47994174	ID:5	RPL: Sending a DAO with sequence number 244, lifetime 30, prefix aaaa::c30c:0:0:5 to fe80::c30c:0:0:7 , parent fe80::c30c:0:0:7
+48073521	ID:7	RPL: Received a DAO from fe80::c30c:0:0:5
+48079617	ID:7	RPL: Received a (unicast) DAO with sequence number 244 from fe80::c30c:0:0:5
+48086078	ID:7	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:5
+48087638	ID:7	RPL: Adding DAO route
+48096733	ID:7	RPL: Forwarding DAO to parent fe80::c30c:0:0:0 in seq: 244 out seq: 244
+48232712	ID:0	RPL: Received a DAO from fe80::c30c:0:0:7
+48238825	ID:0	RPL: Received a (unicast) DAO with sequence number 244 from fe80::c30c:0:0:7
+48245419	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:5
+48246978	ID:0	RPL: Adding DAO route
+48945891	ID:8	RPL: Sending a DAO with sequence number 244, lifetime 30, prefix aaaa::c30c:0:0:8 to fe80::c30c:0:0:b , parent fe80::c30c:0:0:b
+49065570	ID:11	RPL: Received a DAO from fe80::c30c:0:0:8
+49071664	ID:11	RPL: Received a (unicast) DAO with sequence number 244 from fe80::c30c:0:0:8
+49077913	ID:11	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:8
+49079473	ID:11	RPL: Adding DAO route
+49088222	ID:11	RPL: Forwarding DAO to parent fe80::c30c:0:0:0 in seq: 244 out seq: 244
+49108027	ID:0	RPL: Received a DAO from fe80::c30c:0:0:b
+49114122	ID:0	RPL: Received a (unicast) DAO with sequence number 244 from fe80::c30c:0:0:b
+49119991	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:8
+49121801	ID:0	RPL: Adding DAO route
+49730742	ID:4	RPL: Sending prefix info in DIO for aaaa::
+49733910	ID:4	RPL: Sending a multicast-DIO with rank 886
+49755443	ID:1	RPL: Received a DIO from fe80::c30c:0:0:4
+49759212	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,886)
+49763767	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+49765992	ID:1	RPL: DIO option 4, length: 14
+49772026	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+49774252	ID:1	RPL: DIO option 8, length: 30
+49776521	ID:1	RPL: Copying prefix information
+49816024	ID:11	RPL: Received a DIO from fe80::c30c:0:0:4
+49819793	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,886)
+49824386	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+49826611	ID:11	RPL: DIO option 4, length: 14
+49832669	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+49834895	ID:11	RPL: DIO option 8, length: 30
+49837164	ID:11	RPL: Copying prefix information
+51338052	ID:5	RPL: Sending prefix info in DIO for aaaa::
+51341219	ID:5	RPL: Sending a multicast-DIO with rank 652
+52492866	ID:8	RPL: Sending prefix info in DIO for aaaa::
+52496919	ID:8	RPL: Sending a multicast-DIO with rank 644
+53675973	ID:9	RPL: Received a DIO from fe80::c30c:0:0:8
+53679741	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,644)
+53684334	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+53684568	ID:5	RPL: Received a DIO from fe80::c30c:0:0:8
+53686559	ID:9	RPL: DIO option 4, length: 14
+53688336	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,644)
+53689095	ID:11	RPL: Received a DIO from fe80::c30c:0:0:8
+53692579	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+53692878	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,644)
+53692891	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+53694805	ID:9	RPL: DIO option 8, length: 30
+53695116	ID:5	RPL: DIO option 4, length: 14
+53697074	ID:9	RPL: Copying prefix information
+53697432	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+53699658	ID:11	RPL: DIO option 4, length: 14
+53701136	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+53703400	ID:5	RPL: DIO option 8, length: 30
+53705669	ID:5	RPL: Copying prefix information
+53705678	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+53707904	ID:11	RPL: DIO option 8, length: 30
+53710173	ID:11	RPL: Copying prefix information
+54143753	ID:10	RPL: Sending prefix info in DIO for aaaa::
+54146922	ID:10	RPL: Sending a multicast-DIO with rank 516
+54273840	ID:6	RPL: Received a DIO from fe80::c30c:0:0:a
+54277639	ID:6	RPL: Incoming DIO (id, ver, rank) = (30,240,516)
+54282231	ID:6	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+54284457	ID:6	RPL: DIO option 4, length: 14
+54290481	ID:6	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+54292707	ID:6	RPL: DIO option 8, length: 30
+54294976	ID:6	RPL: Copying prefix information
+54300178	ID:9	RPL: Received a DIO from fe80::c30c:0:0:a
+54303978	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,516)
+54308570	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+54310796	ID:9	RPL: DIO option 4, length: 14
+54316820	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+54317504	ID:11	RPL: Received a DIO from fe80::c30c:0:0:a
+54319046	ID:9	RPL: DIO option 8, length: 30
+54321274	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,516)
+54321315	ID:9	RPL: Copying prefix information
+54325836	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+54328062	ID:11	RPL: DIO option 4, length: 14
+54334099	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+54336325	ID:11	RPL: DIO option 8, length: 30
+54338593	ID:11	RPL: Copying prefix information
+54360615	ID:0	RPL: Received a DIO from fe80::c30c:0:0:a
+54360778	ID:2	RPL: Received a DIO from fe80::c30c:0:0:a
+54364385	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,516)
+54364547	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,516)
+54368939	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+54369110	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+54371165	ID:0	RPL: DIO option 4, length: 14
+54371336	ID:2	RPL: DIO option 4, length: 14
+54377205	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+54377372	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+54378233	ID:1	RPL: Received a DIO from fe80::c30c:0:0:a
+54379432	ID:0	RPL: DIO option 8, length: 30
+54379598	ID:2	RPL: DIO option 8, length: 30
+54381700	ID:0	RPL: Copying prefix information
+54381867	ID:2	RPL: Copying prefix information
+54382017	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,516)
+54386581	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+54388807	ID:1	RPL: DIO option 4, length: 14
+54394865	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+54397092	ID:1	RPL: DIO option 8, length: 30
+54399360	ID:1	RPL: Copying prefix information
+55960162	ID:1	RPL: Sending prefix info in DIO for aaaa::
+55963329	ID:1	RPL: Sending a multicast-DIO with rank 425
+56088805	ID:4	RPL: Received a DIO from fe80::c30c:0:0:1
+56092574	ID:4	RPL: Incoming DIO (id, ver, rank) = (30,240,425)
+56097139	ID:4	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+56099365	ID:4	RPL: DIO option 4, length: 14
+56105400	ID:4	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+56107626	ID:4	RPL: DIO option 8, length: 30
+56109895	ID:4	RPL: Copying prefix information
+57439135	ID:3	RPL: Sending prefix info in DIO for aaaa::
+57442304	ID:3	RPL: Sending a multicast-DIO with rank 906
+57485499	ID:2	RPL: Received a DIO from fe80::c30c:0:0:3
+57489268	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,906)
+57493826	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+57496051	ID:2	RPL: DIO option 4, length: 14
+57502110	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+57504336	ID:2	RPL: DIO option 8, length: 30
+57506605	ID:2	RPL: Copying prefix information
+57576477	ID:7	RPL: Received a DIO from fe80::c30c:0:0:3
+57580247	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,906)
+57584801	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+57587027	ID:7	RPL: DIO option 4, length: 14
+57593047	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+57595273	ID:7	RPL: DIO option 8, length: 30
+57597541	ID:7	RPL: Copying prefix information
+59573443	ID:0	RPL: Sending prefix info in DIO for aaaa::
+59576611	ID:0	RPL: Sending a multicast-DIO with rank 128
+59611063	ID:2	RPL: Received a DIO from fe80::c30c:0:0:0
+59614831	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+59615393	ID:10	RPL: Received a DIO from fe80::c30c:0:0:0
+59619161	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+59619395	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+59621621	ID:2	RPL: DIO option 4, length: 14
+59623715	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+59625941	ID:10	RPL: DIO option 4, length: 14
+59627657	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+59628340	ID:1	RPL: Received a DIO from fe80::c30c:0:0:0
+59628589	ID:8	RPL: Received a DIO from fe80::c30c:0:0:0
+59629883	ID:2	RPL: DIO option 8, length: 30
+59631961	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+59632109	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+59632178	ID:2	RPL: Copying prefix information
+59632357	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+59634187	ID:10	RPL: DIO option 8, length: 30
+59636456	ID:10	RPL: Copying prefix information
+59636666	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+59636911	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+59638892	ID:1	RPL: DIO option 4, length: 14
+59639170	ID:8	RPL: DIO option 4, length: 14
+59644950	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+59645190	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+59647176	ID:1	RPL: DIO option 8, length: 30
+59647416	ID:8	RPL: DIO option 8, length: 30
+59649445	ID:1	RPL: Copying prefix information
+59649685	ID:8	RPL: Copying prefix information
+59676032	ID:9	RPL: Received a DIO from fe80::c30c:0:0:0
+59679800	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+59684393	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+59686619	ID:9	RPL: DIO option 4, length: 14
+59689338	ID:11	RPL: Received a DIO from fe80::c30c:0:0:0
+59692639	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+59693106	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+59694865	ID:9	RPL: DIO option 8, length: 30
+59697133	ID:9	RPL: Copying prefix information
+59697660	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+59697754	ID:7	RPL: Received a DIO from fe80::c30c:0:0:0
+59699886	ID:11	RPL: DIO option 4, length: 14
+59701541	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+59705906	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+59706095	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+59708170	ID:11	RPL: DIO option 8, length: 30
+59708321	ID:7	RPL: DIO option 4, length: 14
+59710439	ID:11	RPL: Copying prefix information
+59714341	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+59716567	ID:7	RPL: DIO option 8, length: 30
+59718835	ID:7	RPL: Copying prefix information
+62385513	ID:2	RPL: Sending a DAO with sequence number 245, lifetime 30, prefix aaaa::c30c:0:0:2 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+62481659	ID:0	RPL: Received a DAO from fe80::c30c:0:0:2
+62487752	ID:0	RPL: Received a (unicast) DAO with sequence number 245 from fe80::c30c:0:0:2
+62493480	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:2
+62495286	ID:0	RPL: Adding DAO route
+62690363	ID:2	RPL: Sending prefix info in DIO for aaaa::
+62693532	ID:2	RPL: Sending a multicast-DIO with rank 618
+62732302	ID:0	RPL: Received a DIO from fe80::c30c:0:0:2
+62736098	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,618)
+62740653	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+62741192	ID:10	RPL: Received a DIO from fe80::c30c:0:0:2
+62742917	ID:0	RPL: DIO option 4, length: 14
+62744963	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,618)
+62748937	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+62749517	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+62751175	ID:0	RPL: DIO option 8, length: 30
+62751777	ID:10	RPL: DIO option 4, length: 14
+62753444	ID:0	RPL: Copying prefix information
+62757797	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+62760023	ID:10	RPL: DIO option 8, length: 30
+62762292	ID:10	RPL: Copying prefix information
+62762700	ID:3	RPL: Received a DIO from fe80::c30c:0:0:2
+62766471	ID:3	RPL: Incoming DIO (id, ver, rank) = (30,240,618)
+62771025	ID:3	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+62773251	ID:3	RPL: DIO option 4, length: 14
+62779271	ID:3	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+62781535	ID:3	RPL: DIO option 8, length: 30
+62783804	ID:3	RPL: Copying prefix information
+62823553	ID:7	RPL: Received a DIO from fe80::c30c:0:0:2
+62827325	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,618)
+62831880	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+62834105	ID:7	RPL: DIO option 4, length: 14
+62840164	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+62842390	ID:7	RPL: DIO option 8, length: 30
+62844658	ID:7	RPL: Copying prefix information
+63647460	ID:9	RPL: Sending a DAO with sequence number 245, lifetime 30, prefix aaaa::c30c:0:0:9 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+63733469	ID:0	RPL: Received a DAO from fe80::c30c:0:0:9
+63739599	ID:0	RPL: Received a (unicast) DAO with sequence number 245 from fe80::c30c:0:0:9
+63745848	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:9
+63747550	ID:0	RPL: Adding DAO route
+63952184	ID:1	RPL: Sending a DAO with sequence number 245, lifetime 30, prefix aaaa::c30c:0:0:1 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+63981755	ID:0	RPL: Received a DAO from fe80::c30c:0:0:1
+63987848	ID:0	RPL: Received a (unicast) DAO with sequence number 245 from fe80::c30c:0:0:1
+63993888	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:1
+63995659	ID:0	RPL: Adding DAO route
+64046613	ID:7	RPL: Sending prefix info in DIO for aaaa::
+64049781	ID:7	RPL: Sending a multicast-DIO with rank 523
+64110409	ID:2	RPL: Received a DIO from fe80::c30c:0:0:7
+64110483	ID:0	RPL: Received a DIO from fe80::c30c:0:0:7
+64114178	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,523)
+64114253	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,523)
+64118755	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64118841	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64120981	ID:2	RPL: DIO option 4, length: 14
+64121067	ID:0	RPL: DIO option 4, length: 14
+64127001	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64127086	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64129227	ID:2	RPL: DIO option 8, length: 30
+64129313	ID:0	RPL: DIO option 8, length: 30
+64131495	ID:2	RPL: Copying prefix information
+64131581	ID:0	RPL: Copying prefix information
+64140608	ID:3	RPL: Received a DIO from fe80::c30c:0:0:7
+64144378	ID:3	RPL: Incoming DIO (id, ver, rank) = (30,240,523)
+64148932	ID:3	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64151158	ID:3	RPL: DIO option 4, length: 14
+64157216	ID:3	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64159442	ID:3	RPL: DIO option 8, length: 30
+64161711	ID:3	RPL: Copying prefix information
+64175561	ID:9	RPL: Received a DIO from fe80::c30c:0:0:7
+64179330	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,523)
+64183923	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64186149	ID:9	RPL: DIO option 4, length: 14
+64188231	ID:5	RPL: Received a DIO from fe80::c30c:0:0:7
+64192000	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,523)
+64192207	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64194433	ID:9	RPL: DIO option 8, length: 30
+64196564	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64196702	ID:9	RPL: Copying prefix information
+64198790	ID:5	RPL: DIO option 4, length: 14
+64199792	ID:7	RPL: Sending a DAO with sequence number 245, lifetime 30, prefix aaaa::c30c:0:0:7 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+64204826	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64207053	ID:5	RPL: DIO option 8, length: 30
+64209321	ID:5	RPL: Copying prefix information
+64232622	ID:0	RPL: Received a DAO from fe80::c30c:0:0:7
+64238747	ID:0	RPL: Received a (unicast) DAO with sequence number 245 from fe80::c30c:0:0:7
+64245305	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:7
+64247041	ID:0	RPL: Adding DAO route
+64405415	ID:9	RPL: Sending prefix info in DIO for aaaa::
+64408584	ID:9	RPL: Sending a multicast-DIO with rank 510
+64440790	ID:5	RPL: Received a DIO from fe80::c30c:0:0:9
+64444560	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,510)
+64447618	ID:7	RPL: Received a DIO from fe80::c30c:0:0:9
+64449114	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64451340	ID:5	RPL: DIO option 4, length: 14
+64451399	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,510)
+64455954	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64457360	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64458218	ID:7	RPL: DIO option 4, length: 14
+64459586	ID:5	RPL: DIO option 8, length: 30
+64461854	ID:5	RPL: Copying prefix information
+64464238	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64466477	ID:7	RPL: DIO option 8, length: 30
+64468745	ID:7	RPL: Copying prefix information
+64482184	ID:0	RPL: Received a DIO from fe80::c30c:0:0:9
+64485956	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,510)
+64490510	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64490853	ID:10	RPL: Received a DIO from fe80::c30c:0:0:9
+64492768	ID:0	RPL: DIO option 4, length: 14
+64494655	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,510)
+64498788	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64499210	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64501033	ID:0	RPL: DIO option 8, length: 30
+64501435	ID:10	RPL: DIO option 4, length: 14
+64503302	ID:0	RPL: Copying prefix information
+64503871	ID:8	RPL: Received a DIO from fe80::c30c:0:0:9
+64507455	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64507641	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,510)
+64509682	ID:10	RPL: DIO option 8, length: 30
+64511950	ID:10	RPL: Copying prefix information
+64512195	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64514454	ID:8	RPL: DIO option 4, length: 14
+64520474	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64522700	ID:8	RPL: DIO option 8, length: 30
+64524969	ID:8	RPL: Copying prefix information
+64795456	ID:11	RPL: Sending prefix info in DIO for aaaa::
+64798623	ID:11	RPL: Sending a multicast-DIO with rank 360
+64837504	ID:4	RPL: Received a DIO from fe80::c30c:0:0:b
+64841273	ID:4	RPL: Incoming DIO (id, ver, rank) = (30,240,360)
+64845827	ID:4	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64848053	ID:4	RPL: DIO option 4, length: 14
+64854111	ID:4	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64856337	ID:4	RPL: DIO option 8, length: 30
+64858606	ID:4	RPL: Copying prefix information
+64859358	ID:0	RPL: Received a DIO from fe80::c30c:0:0:b
+64863127	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,360)
+64867697	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64867914	ID:10	RPL: Received a DIO from fe80::c30c:0:0:b
+64869923	ID:0	RPL: DIO option 4, length: 14
+64871683	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,360)
+64875959	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64876237	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64878185	ID:0	RPL: DIO option 8, length: 30
+64878463	ID:10	RPL: DIO option 4, length: 14
+64880454	ID:0	RPL: Copying prefix information
+64880995	ID:8	RPL: Received a DIO from fe80::c30c:0:0:b
+64881000	ID:1	RPL: Received a DIO from fe80::c30c:0:0:b
+64884483	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64884764	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,360)
+64884769	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,360)
+64886709	ID:10	RPL: DIO option 8, length: 30
+64888978	ID:10	RPL: Copying prefix information
+64889327	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64889333	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64891553	ID:8	RPL: DIO option 4, length: 14
+64891559	ID:1	RPL: DIO option 4, length: 14
+64897587	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64897594	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64899813	ID:8	RPL: DIO option 8, length: 30
+64899821	ID:1	RPL: DIO option 8, length: 30
+64902082	ID:8	RPL: Copying prefix information
+64902115	ID:1	RPL: Copying prefix information
+64924406	ID:9	RPL: Received a DIO from fe80::c30c:0:0:b
+64928194	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,360)
+64932748	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+64934974	ID:9	RPL: DIO option 4, length: 14
+64940994	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+64943220	ID:9	RPL: DIO option 8, length: 30
+64945489	ID:9	RPL: Copying prefix information
+65072446	ID:5	RPL: Sending prefix info in DIO for aaaa::
+65075615	ID:5	RPL: Sending a multicast-DIO with rank 714
+65131911	ID:8	RPL: Received a DIO from fe80::c30c:0:0:5
+65135682	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,714)
+65140236	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+65142462	ID:8	RPL: DIO option 4, length: 14
+65148482	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+65150708	ID:8	RPL: DIO option 8, length: 30
+65152977	ID:8	RPL: Copying prefix information
+65167026	ID:10	RPL: Sending a DAO with sequence number 243, lifetime 30, prefix aaaa::c30c:0:0:a to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+65175350	ID:9	RPL: Received a DIO from fe80::c30c:0:0:5
+65179121	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,714)
+65183675	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+65185901	ID:9	RPL: DIO option 4, length: 14
+65191921	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+65194147	ID:9	RPL: DIO option 8, length: 30
+65196415	ID:9	RPL: Copying prefix information
+65233147	ID:0	RPL: Received a DAO from fe80::c30c:0:0:a
+65239244	ID:0	RPL: Received a (unicast) DAO with sequence number 243 from fe80::c30c:0:0:a
+65245633	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:a
+65247404	ID:0	RPL: Adding DAO route
+65443725	ID:11	RPL: Sending a DAO with sequence number 245, lifetime 30, prefix aaaa::c30c:0:0:b to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+65483071	ID:0	RPL: Received a DAO from fe80::c30c:0:0:b
+65489173	ID:0	RPL: Received a (unicast) DAO with sequence number 245 from fe80::c30c:0:0:b
+65495063	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:b
+65496939	ID:0	RPL: Adding DAO route
+67705143	ID:5	RPL: Sending a DAO with sequence number 245, lifetime 30, prefix aaaa::c30c:0:0:5 to fe80::c30c:0:0:7 , parent fe80::c30c:0:0:7
+67866875	ID:4	RPL: Sending a No-Path DAO with sequence number 244, lifetime 0, prefix aaaa::c30c:0:0:4 to fe80::c30c:0:0:b , parent fe80::c30c:0:0:b
+68376501	ID:3	RPL: Sending a DAO with sequence number 245, lifetime 30, prefix aaaa::c30c:0:0:3 to fe80::c30c:0:0:7 , parent fe80::c30c:0:0:7
+68697499	ID:7	RPL: Received a DAO from fe80::c30c:0:0:3
+68703621	ID:7	RPL: Received a (unicast) DAO with sequence number 245 from fe80::c30c:0:0:3
+68709871	ID:7	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:3
+68711430	ID:7	RPL: Adding DAO route
+68719078	ID:7	RPL: Forwarding DAO to parent fe80::c30c:0:0:0 in seq: 245 out seq: 246
+69488454	ID:6	RPL: Sending prefix info in DIO for aaaa::
+69491735	ID:6	RPL: Sending a multicast-DIO with rank 1340
+69688078	ID:8	RPL: Sending a DAO with sequence number 245, lifetime 30, prefix aaaa::c30c:0:0:8 to fe80::c30c:0:0:b , parent fe80::c30c:0:0:b
+70322851	ID:7	RPL: Received a DAO from fe80::c30c:0:0:5
+70328977	ID:7	RPL: Received a (unicast) DAO with sequence number 245 from fe80::c30c:0:0:5
+70335436	ID:7	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:5
+70337023	ID:7	RPL: Adding DAO route
+70345002	ID:7	RPL: Forwarding DAO to parent fe80::c30c:0:0:0 in seq: 245 out seq: 247
+70708076	ID:4	RPL: Sending prefix info in DIO for aaaa::
+70711357	ID:4	RPL: Sending a multicast-DIO with rank 1012
+70860813	ID:4	RPL: Sending a DAO with sequence number 245, lifetime 30, prefix aaaa::c30c:0:0:4 to fe80::c30c:0:0:1 , parent fe80::c30c:0:0:1
+71705503	ID:8	RPL: Sending prefix info in DIO for aaaa::
+71708670	ID:8	RPL: Sending a multicast-DIO with rank 829
+71979886	ID:0	RPL: Received a DAO from fe80::c30c:0:0:7
+71986011	ID:0	RPL: Received a (unicast) DAO with sequence number 247 from fe80::c30c:0:0:7
+71992607	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:5
+71994414	ID:0	RPL: Adding DAO route
+72026201	ID:8	RPL: Sending a No-Path DAO with sequence number 246, lifetime 0, prefix aaaa::c30c:0:0:8 to fe80::c30c:0:0:b , parent fe80::c30c:0:0:b
+72063845	ID:11	RPL: Received a DAO from fe80::c30c:0:0:8
+72069959	ID:11	RPL: Received a (unicast) DAO with sequence number 246 from fe80::c30c:0:0:8
+72076133	ID:11	RPL: DAO lifetime: 0, prefix length: 128 prefix: aaaa::c30c:0:0:8
+72077976	ID:11	RPL: No-Path DAO received
+72082984	ID:11	RPL: Setting expiration timer for prefix aaaa::c30c:0:0:8
+72088667	ID:11	RPL: Forwarding No-path DAO to parent - out_seq:246fe80::c30c:0:0:0
+72108289	ID:0	RPL: Received a DAO from fe80::c30c:0:0:b
+72114387	ID:0	RPL: Received a (unicast) DAO with sequence number 246 from fe80::c30c:0:0:b
+72120137	ID:0	RPL: DAO lifetime: 0, prefix length: 128 prefix: aaaa::c30c:0:0:8
+72122261	ID:0	RPL: No-Path DAO received
+72127197	ID:0	RPL: Setting expiration timer for prefix aaaa::c30c:0:0:8
+73727609	ID:8	RPL: Sending prefix info in DIO for aaaa::
+73732431	ID:8	RPL: Sending unicast-DIO with rank 767 to fe80::c30c:0:0:1
+73754554	ID:1	RPL: Received a DIO from fe80::c30c:0:0:8
+73758324	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,767)
+73762878	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+73765104	ID:1	RPL: DIO option 4, length: 14
+73771133	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+73773359	ID:1	RPL: DIO option 8, length: 30
+73775628	ID:1	RPL: Copying prefix information
+75750700	ID:8	RPL: Sending prefix info in DIO for aaaa::
+75753869	ID:8	RPL: Sending a multicast-DIO with rank 767
+75801712	ID:9	RPL: Received a DIO from fe80::c30c:0:0:8
+75805482	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,767)
+75810075	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+75810150	ID:5	RPL: Received a DIO from fe80::c30c:0:0:8
+75812300	ID:9	RPL: DIO option 4, length: 14
+75813920	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,767)
+75814371	ID:11	RPL: Received a DIO from fe80::c30c:0:0:8
+75818164	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,767)
+75818320	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+75818474	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+75820547	ID:9	RPL: DIO option 8, length: 30
+75820730	ID:5	RPL: DIO option 4, length: 14
+75822718	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+75822815	ID:9	RPL: Copying prefix information
+75824944	ID:11	RPL: DIO option 4, length: 14
+75826750	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+75828976	ID:5	RPL: DIO option 8, length: 30
+75830964	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+75831245	ID:5	RPL: Copying prefix information
+75833192	ID:11	RPL: DIO option 8, length: 30
+75835460	ID:11	RPL: Copying prefix information
+75858371	ID:0	RPL: Received a DIO from fe80::c30c:0:0:8
+75862165	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,767)
+75866719	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+75868945	ID:0	RPL: DIO option 4, length: 14
+75874964	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+75877191	ID:0	RPL: DIO option 8, length: 30
+75879423	ID:1	RPL: Received a DIO from fe80::c30c:0:0:8
+75879459	ID:0	RPL: Copying prefix information
+75883193	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,767)
+75887747	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+75889973	ID:1	RPL: DIO option 4, length: 14
+75896031	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+75898258	ID:1	RPL: DIO option 8, length: 30
+75900526	ID:1	RPL: Copying prefix information
+77820879	ID:8	RPL: Sending a DAO with sequence number 247, lifetime 30, prefix aaaa::c30c:0:0:8 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+77857702	ID:0	RPL: Received a DAO from fe80::c30c:0:0:8
+77863817	ID:0	RPL: Received a (unicast) DAO with sequence number 247 from fe80::c30c:0:0:8
+77870560	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:8
+77872120	ID:0	RPL: Adding DAO route
+78996367	ID:4	RPL: Sending prefix info in DIO for aaaa::
+78999649	ID:4	RPL: Sending a multicast-DIO with rank 1115
+79064564	ID:11	RPL: Received a DIO from fe80::c30c:0:0:4
+79068448	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,1115)
+79073002	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+79075228	ID:11	RPL: DIO option 4, length: 14
+79081286	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+79083512	ID:11	RPL: DIO option 8, length: 30
+79085781	ID:11	RPL: Copying prefix information
+79129629	ID:1	RPL: Received a DIO from fe80::c30c:0:0:4
+79133513	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,1115)
+79138105	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+79140331	ID:1	RPL: DIO option 4, length: 14
+79146351	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+79148577	ID:1	RPL: DIO option 8, length: 30
+79150846	ID:1	RPL: Copying prefix information
+81641303	ID:8	RPL: Sending prefix info in DIO for aaaa::
+81644471	ID:8	RPL: Sending a multicast-DIO with rank 690
+86621220	ID:1	RPL: Sending prefix info in DIO for aaaa::
+86626005	ID:1	RPL: Sending unicast-DIO with rank 550 to fe80::c30c:0:0:b
+86689905	ID:11	RPL: Received a DIO from fe80::c30c:0:0:1
+86693675	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,550)
+86698230	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+86699116	ID:1	RPL: Sending a No-Path DAO with sequence number 245, lifetime 0, prefix aaaa::c30c:0:0:4 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+86700455	ID:11	RPL: DIO option 4, length: 14
+86706508	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+86708735	ID:11	RPL: DIO option 8, length: 30
+86711003	ID:11	RPL: Copying prefix information
+86858447	ID:0	RPL: Received a DAO from fe80::c30c:0:0:1
+86864540	ID:0	RPL: Received a (unicast) DAO with sequence number 245 from fe80::c30c:0:0:1
+86870490	ID:0	RPL: DAO lifetime: 0, prefix length: 128 prefix: aaaa::c30c:0:0:4
+86872333	ID:0	RPL: No-Path DAO received
+89509875	ID:7	RPL: Sending prefix info in DIO for aaaa::
+89514659	ID:7	RPL: Sending unicast-DIO with rank 769 to fe80::c30c:0:0:2
+89607235	ID:2	RPL: Received a DIO from fe80::c30c:0:0:7
+89611011	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,769)
+89615565	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+89617791	ID:2	RPL: DIO option 4, length: 14
+89623811	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+89626037	ID:2	RPL: DIO option 8, length: 30
+89628306	ID:2	RPL: Copying prefix information
+93613502	ID:2	RPL: Sending a No-Path DAO with sequence number 245, lifetime 0, prefix aaaa::c30c:0:0:3 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+93733288	ID:0	RPL: Received a DAO from fe80::c30c:0:0:2
+93739386	ID:0	RPL: Received a (unicast) DAO with sequence number 245 from fe80::c30c:0:0:2
+93744991	ID:0	RPL: DAO lifetime: 0, prefix length: 128 prefix: aaaa::c30c:0:0:3
+93747116	ID:0	RPL: No-Path DAO received
+93782883	ID:3	RPL: Sending prefix info in DIO for aaaa::
+93786051	ID:3	RPL: Sending a multicast-DIO with rank 983
+93824890	ID:7	RPL: Received a DIO from fe80::c30c:0:0:3
+93828659	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,983)
+93833213	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+93835439	ID:7	RPL: DIO option 4, length: 14
+93841474	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+93843700	ID:7	RPL: DIO option 8, length: 30
+93845969	ID:7	RPL: Copying prefix information
+93859677	ID:2	RPL: Received a DIO from fe80::c30c:0:0:3
+93863447	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,983)
+93868005	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+93870231	ID:2	RPL: DIO option 4, length: 14
+93875669	ID:8	RPL: Sending prefix info in DIO for aaaa::
+93876289	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+93878516	ID:2	RPL: DIO option 8, length: 30
+93878836	ID:8	RPL: Sending a multicast-DIO with rank 644
+93880784	ID:2	RPL: Copying prefix information
+93934949	ID:5	RPL: Received a DIO from fe80::c30c:0:0:8
+93938748	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,644)
+93939490	ID:11	RPL: Received a DIO from fe80::c30c:0:0:8
+93943258	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,644)
+93943303	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+93945528	ID:5	RPL: DIO option 4, length: 14
+93947812	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+93950073	ID:11	RPL: DIO option 4, length: 14
+93951548	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+93953775	ID:5	RPL: DIO option 8, length: 30
+93956043	ID:5	RPL: Copying prefix information
+93956093	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+93958319	ID:11	RPL: DIO option 8, length: 30
+93960588	ID:11	RPL: Copying prefix information
+93983018	ID:0	RPL: Received a DIO from fe80::c30c:0:0:8
+93986807	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,644)
+93991362	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+93993587	ID:0	RPL: DIO option 4, length: 14
+93999607	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+94001835	ID:0	RPL: DIO option 8, length: 30
+94004104	ID:0	RPL: Copying prefix information
+94004503	ID:1	RPL: Received a DIO from fe80::c30c:0:0:8
+94008271	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,644)
+94012828	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+94015054	ID:1	RPL: DIO option 4, length: 14
+94021112	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+94023339	ID:1	RPL: DIO option 8, length: 30
+94025607	ID:1	RPL: Copying prefix information
+95972939	ID:4	RPL: Sending prefix info in DIO for aaaa::
+95976220	ID:4	RPL: Sending a multicast-DIO with rank 1165
+96002103	ID:1	RPL: Received a DIO from fe80::c30c:0:0:4
+96005991	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,1165)
+96010545	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+96012787	ID:1	RPL: DIO option 4, length: 14
+96018807	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+96021033	ID:1	RPL: DIO option 8, length: 30
+96023302	ID:1	RPL: Copying prefix information
+96067147	ID:11	RPL: Received a DIO from fe80::c30c:0:0:4
+96071030	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,1165)
+96075622	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+96077848	ID:11	RPL: DIO option 4, length: 14
+96083885	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+96086111	ID:11	RPL: DIO option 8, length: 30
+96088380	ID:11	RPL: Copying prefix information
+99427145	ID:10	RPL: Sending prefix info in DIO for aaaa::
+99431958	ID:10	RPL: Sending unicast-DIO with rank 685 to fe80::c30c:0:0:2
+101985027	ID:2	RPL: Received a DIO from fe80::c30c:0:0:a
+101988796	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,685)
+101993388	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+101995614	ID:2	RPL: DIO option 4, length: 14
+102001634	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+102003860	ID:2	RPL: DIO option 8, length: 30
+102006129	ID:2	RPL: Copying prefix information
+102055072	ID:9	RPL: Sending a No-Path DAO with sequence number 245, lifetime 0, prefix aaaa::c30c:0:0:5 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+102108629	ID:0	RPL: Received a DAO from fe80::c30c:0:0:9
+102114741	ID:0	RPL: Received a (unicast) DAO with sequence number 245 from fe80::c30c:0:0:9
+102120870	ID:0	RPL: DAO lifetime: 0, prefix length: 128 prefix: aaaa::c30c:0:0:5
+102122994	ID:0	RPL: No-Path DAO received
+102806808	ID:5	RPL: Sending prefix info in DIO for aaaa::
+102810090	ID:5	RPL: Sending a multicast-DIO with rank 1109
+102879189	ID:8	RPL: Received a DIO from fe80::c30c:0:0:5
+102883086	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,1109)
+102887640	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+102889881	ID:8	RPL: DIO option 4, length: 14
+102895901	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+102898127	ID:8	RPL: DIO option 8, length: 30
+102900396	ID:8	RPL: Copying prefix information
+102926945	ID:9	RPL: Received a DIO from fe80::c30c:0:0:5
+102930828	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,1109)
+102935382	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+102937608	ID:9	RPL: DIO option 4, length: 14
+102943666	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+102945893	ID:9	RPL: DIO option 8, length: 30
+102948161	ID:9	RPL: Copying prefix information
+102948663	ID:7	RPL: Received a DIO from fe80::c30c:0:0:5
+102952580	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,1109)
+102957150	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+102959375	ID:7	RPL: DIO option 4, length: 14
+102965395	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+102967621	ID:7	RPL: DIO option 8, length: 30
+102969890	ID:7	RPL: Copying prefix information
+103780481	ID:1	RPL: Sending prefix info in DIO for aaaa::
+103783650	ID:1	RPL: Sending a multicast-DIO with rank 592
+103835462	ID:4	RPL: Received a DIO from fe80::c30c:0:0:1
+103839253	ID:4	RPL: Incoming DIO (id, ver, rank) = (30,240,592)
+103843807	ID:4	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+103846033	ID:4	RPL: DIO option 4, length: 14
+103852053	ID:4	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+103854279	ID:4	RPL: DIO option 8, length: 30
+103856548	ID:4	RPL: Copying prefix information
+103858321	ID:0	RPL: Received a DIO from fe80::c30c:0:0:1
+103862094	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,592)
+103866066	ID:10	RPL: Received a DIO from fe80::c30c:0:0:1
+103866649	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+103868874	ID:0	RPL: DIO option 4, length: 14
+103869869	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,592)
+103873782	ID:4	RPL: Sending a No-Path DAO with sequence number 246, lifetime 0, prefix aaaa::c30c:0:0:4 to fe80::c30c:0:0:1 , parent fe80::c30c:0:0:1
+103874423	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+103874933	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+103876649	ID:10	RPL: DIO option 4, length: 14
+103877159	ID:0	RPL: DIO option 8, length: 30
+103878994	ID:8	RPL: Received a DIO from fe80::c30c:0:0:1
+103879428	ID:0	RPL: Copying prefix information
+103882707	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+103882764	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,592)
+103884934	ID:10	RPL: DIO option 8, length: 30
+103887202	ID:10	RPL: Copying prefix information
+103887319	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+103889544	ID:8	RPL: DIO option 4, length: 14
+103895564	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+103897792	ID:8	RPL: DIO option 8, length: 30
+103900061	ID:8	RPL: Copying prefix information
+103900929	ID:6	RPL: Received a DIO from fe80::c30c:0:0:1
+103904700	ID:6	RPL: Incoming DIO (id, ver, rank) = (30,240,592)
+103909254	ID:6	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+103911480	ID:6	RPL: DIO option 4, length: 14
+103917506	ID:6	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+103919732	ID:6	RPL: DIO option 8, length: 30
+103922001	ID:6	RPL: Copying prefix information
+103929709	ID:6	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:1, c1:0c:00:00:00:00:00:01
+104000641	ID:1	RPL: Received a DAO from fe80::c30c:0:0:4
+104006754	ID:1	RPL: Received a (unicast) DAO with sequence number 246 from fe80::c30c:0:0:4
+104012569	ID:1	RPL: DAO lifetime: 0, prefix length: 128 prefix: aaaa::c30c:0:0:4
+104014412	ID:1	RPL: No-Path DAO received
+106471262	ID:5	RPL: Sending prefix info in DIO for aaaa::
+106476197	ID:5	RPL: Sending unicast-DIO with rank 1109 to fe80::c30c:0:0:8
+106506462	ID:8	RPL: Received a DIO from fe80::c30c:0:0:5
+106510345	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,1109)
+106514933	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+106517159	ID:8	RPL: DIO option 4, length: 14
+106523179	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+106525405	ID:8	RPL: DIO option 8, length: 30
+106527674	ID:8	RPL: Copying prefix information
+106668502	ID:6	RPL: Sending prefix info in DIO for aaaa::
+106673440	ID:6	RPL: Sending unicast-DIO with rank 1466 to fe80::c30c:0:0:1
+106754143	ID:1	RPL: Received a DIO from fe80::c30c:0:0:6
+106758025	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,1466)
+106762618	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+106764844	ID:1	RPL: DIO option 4, length: 14
+106770881	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+106773107	ID:1	RPL: DIO option 8, length: 30
+106775376	ID:1	RPL: Copying prefix information
+106784474	ID:1	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:6, c1:0c:00:00:00:00:00:06
+107449356	ID:4	RPL: Sending a DAO with sequence number 247, lifetime 30, prefix aaaa::c30c:0:0:4 to fe80::c30c:0:0:b , parent fe80::c30c:0:0:b
+107562896	ID:11	RPL: Received a DAO from fe80::c30c:0:0:4
+107568990	ID:11	RPL: Received a (unicast) DAO with sequence number 247 from fe80::c30c:0:0:4
+107574891	ID:11	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:4
+107576451	ID:11	RPL: Adding DAO route
+107583455	ID:11	RPL: Forwarding DAO to parent fe80::c30c:0:0:0 in seq: 247 out seq: 247
+107606694	ID:0	RPL: Received a DAO from fe80::c30c:0:0:b
+107612827	ID:0	RPL: Received a (unicast) DAO with sequence number 247 from fe80::c30c:0:0:b
+107618690	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:4
+107620427	ID:0	RPL: Adding DAO route
+107715127	ID:4	RPL: Sending prefix info in DIO for aaaa::
+107718408	ID:4	RPL: Sending a multicast-DIO with rank 1094
+107752845	ID:1	RPL: Received a DIO from fe80::c30c:0:0:4
+107756728	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,1094)
+107761282	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+107763509	ID:1	RPL: DIO option 4, length: 14
+107769529	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+107771756	ID:1	RPL: DIO option 8, length: 30
+107774024	ID:1	RPL: Copying prefix information
+107817797	ID:11	RPL: Received a DIO from fe80::c30c:0:0:4
+107821680	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,1094)
+107826263	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+107828489	ID:11	RPL: DIO option 4, length: 14
+107834547	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+107836773	ID:11	RPL: DIO option 8, length: 30
+107839045	ID:11	RPL: Copying prefix information
+109597324	ID:0	RPL: Sending prefix info in DIO for aaaa::
+109600955	ID:0	RPL: Sending a multicast-DIO with rank 128
+109627627	ID:1	RPL: Received a DIO from fe80::c30c:0:0:0
+109631133	ID:8	RPL: Received a DIO from fe80::c30c:0:0:0
+109631395	ID:1	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+109634901	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+109635950	ID:1	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+109638214	ID:1	RPL: DIO option 4, length: 14
+109639469	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+109641695	ID:8	RPL: DIO option 4, length: 14
+109644234	ID:1	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+109646460	ID:1	RPL: DIO option 8, length: 30
+109647729	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+109648729	ID:1	RPL: Copying prefix information
+109649955	ID:8	RPL: DIO option 8, length: 30
+109652224	ID:8	RPL: Copying prefix information
+109674378	ID:9	RPL: Received a DIO from fe80::c30c:0:0:0
+109678146	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+109682700	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+109684962	ID:9	RPL: DIO option 4, length: 14
+109690982	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+109691780	ID:11	RPL: Received a DIO from fe80::c30c:0:0:0
+109693208	ID:9	RPL: DIO option 8, length: 30
+109695477	ID:9	RPL: Copying prefix information
+109695548	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+109700141	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+109700367	ID:7	RPL: Received a DIO from fe80::c30c:0:0:0
+109702366	ID:11	RPL: DIO option 4, length: 14
+109704136	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+109708418	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+109708690	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+109710645	ID:11	RPL: DIO option 8, length: 30
+109710916	ID:7	RPL: DIO option 4, length: 14
+109712913	ID:11	RPL: Copying prefix information
+109716939	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+109719165	ID:7	RPL: DIO option 8, length: 30
+109721434	ID:7	RPL: Copying prefix information
+109735187	ID:2	RPL: Received a DIO from fe80::c30c:0:0:0
+109738955	ID:2	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+109743541	ID:2	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+109743740	ID:10	RPL: Received a DIO from fe80::c30c:0:0:0
+109745767	ID:2	RPL: DIO option 4, length: 14
+109747508	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,128)
+109751787	ID:2	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+109752062	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+109754013	ID:2	RPL: DIO option 8, length: 30
+109754288	ID:10	RPL: DIO option 4, length: 14
+109756282	ID:2	RPL: Copying prefix information
+109760308	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+109762534	ID:10	RPL: DIO option 8, length: 30
+109764803	ID:10	RPL: Copying prefix information
+110838637	ID:5	RPL: Sending prefix info in DIO for aaaa::
+110843536	ID:5	RPL: Sending unicast-DIO with rank 1109 to fe80::c30c:0:0:8
+110878022	ID:8	RPL: Received a DIO from fe80::c30c:0:0:5
+110881905	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,1109)
+110886459	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+110888718	ID:8	RPL: DIO option 4, length: 14
+110894738	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+110896983	ID:8	RPL: DIO option 8, length: 30
+110899251	ID:8	RPL: Copying prefix information
+111600772	ID:9	RPL: Sending prefix info in DIO for aaaa::
+111603940	ID:9	RPL: Sending a multicast-DIO with rank 508
+112108441	ID:9	RPL: Sending a DAO with sequence number 246, lifetime 30, prefix aaaa::c30c:0:0:9 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+112203043	ID:6	RPL: Sending prefix info in DIO for aaaa::
+112207955	ID:6	RPL: Sending unicast-DIO with rank 1515 to fe80::c30c:0:0:1
+112739581	ID:4	RPL: Sending prefix info in DIO for aaaa::
+112742871	ID:4	RPL: Sending a multicast-DIO with rank 1094
+113128501	ID:11	RPL: Sending prefix info in DIO for aaaa::
+113133284	ID:11	RPL: Sending unicast-DIO with rank 318 to fe80::c30c:0:0:9
+113185668	ID:5	RPL: Received a DIO from fe80::c30c:0:0:9
+113189461	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,508)
+113194015	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+113196241	ID:5	RPL: DIO option 4, length: 14
+113202261	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+113204487	ID:5	RPL: DIO option 8, length: 30
+113206755	ID:5	RPL: Copying prefix information
+113268625	ID:10	RPL: Sending a DAO with sequence number 244, lifetime 30, prefix aaaa::c30c:0:0:a to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+113422437	ID:8	RPL: Sending a DAO with sequence number 248, lifetime 30, prefix aaaa::c30c:0:0:8 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+113482133	ID:0	RPL: Received a DAO from fe80::c30c:0:0:8
+113488248	ID:0	RPL: Received a (unicast) DAO with sequence number 248 from fe80::c30c:0:0:8
+113494991	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:8
+113496588	ID:0	RPL: Adding DAO route
+113670485	ID:11	RPL: Sending prefix info in DIO for aaaa::
+113673654	ID:11	RPL: Sending a multicast-DIO with rank 318
+114033795	ID:6	RPL: Sending a No-Path DAO with sequence number 242, lifetime 0, prefix aaaa::c30c:0:0:6 to fe80::c30c:0:0:a , parent fe80::c30c:0:0:a
+114080857	ID:2	RPL: Sending a DAO with sequence number 246, lifetime 30, prefix aaaa::c30c:0:0:2 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+114250214	ID:1	RPL: Sending a DAO with sequence number 246, lifetime 30, prefix aaaa::c30c:0:0:1 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+114658755	ID:5	RPL: Sending prefix info in DIO for aaaa::
+114663689	ID:5	RPL: Sending unicast-DIO with rank 1213 to fe80::c30c:0:0:8
+114729457	ID:7	RPL: Sending a DAO with sequence number 248, lifetime 30, prefix aaaa::c30c:0:0:7 to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+114859216	ID:0	RPL: Received a DAO from fe80::c30c:0:0:7
+114865309	ID:0	RPL: Received a (unicast) DAO with sequence number 248 from fe80::c30c:0:0:7
+114871867	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:7
+114873603	ID:0	RPL: Adding DAO route
+115004797	ID:8	RPL: Received a DIO from fe80::c30c:0:0:5
+115008679	ID:8	RPL: Incoming DIO (id, ver, rank) = (30,240,1213)
+115013272	ID:8	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+115015498	ID:8	RPL: DIO option 4, length: 14
+115021526	ID:8	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+115023752	ID:8	RPL: DIO option 8, length: 30
+115026021	ID:8	RPL: Copying prefix information
+115106376	ID:0	RPL: Received a DAO from fe80::c30c:0:0:9
+115112471	ID:0	RPL: Received a (unicast) DAO with sequence number 246 from fe80::c30c:0:0:9
+115118681	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:9
+115120348	ID:0	RPL: Adding DAO route
+115154719	ID:11	RPL: Sending a DAO with sequence number 248, lifetime 30, prefix aaaa::c30c:0:0:b to fe80::c30c:0:0:0 , parent fe80::c30c:0:0:0
+115409800	ID:10	RPL: Sending prefix info in DIO for aaaa::
+115414622	ID:10	RPL: Sending unicast-DIO with rank 738 to fe80::c30c:0:0:b
+116550474	ID:9	RPL: Received a DIO from fe80::c30c:0:0:b
+116554244	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,318)
+116558832	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+116561058	ID:9	RPL: DIO option 4, length: 14
+116567105	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+116569331	ID:9	RPL: DIO option 8, length: 30
+116571600	ID:9	RPL: Copying prefix information
+116981630	ID:0	RPL: Received a DAO from fe80::c30c:0:0:1
+116987750	ID:0	RPL: Received a (unicast) DAO with sequence number 246 from fe80::c30c:0:0:1
+116993816	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:1
+116995376	ID:0	RPL: Adding DAO route
+117258488	ID:8	RPL: Sending prefix info in DIO for aaaa::
+117261657	ID:8	RPL: Sending a multicast-DIO with rank 618
+117300698	ID:9	RPL: Received a DIO from fe80::c30c:0:0:8
+117304469	ID:9	RPL: Incoming DIO (id, ver, rank) = (30,240,618)
+117309023	ID:9	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+117309242	ID:5	RPL: Received a DIO from fe80::c30c:0:0:8
+117311249	ID:9	RPL: DIO option 4, length: 14
+117313039	ID:5	RPL: Incoming DIO (id, ver, rank) = (30,240,618)
+117317274	ID:9	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+117317593	ID:5	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+117317929	ID:11	RPL: Received a DIO from fe80::c30c:0:0:8
+117319500	ID:9	RPL: DIO option 8, length: 30
+117319850	ID:5	RPL: DIO option 4, length: 14
+117321700	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,618)
+117321769	ID:9	RPL: Copying prefix information
+117325870	ID:5	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+117326263	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+117328116	ID:5	RPL: DIO option 8, length: 30
+117328489	ID:11	RPL: DIO option 4, length: 14
+117330385	ID:5	RPL: Copying prefix information
+117334547	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+117336773	ID:11	RPL: DIO option 8, length: 30
+117339042	ID:11	RPL: Copying prefix information
+117340051	ID:6	RPL: Sending prefix info in DIO for aaaa::
+117343218	ID:6	RPL: Sending a multicast-DIO with rank 968
+117511754	ID:6	RPL: Sending a DAO with sequence number 243, lifetime 30, prefix aaaa::c30c:0:0:6 to fe80::c30c:0:0:1 , parent fe80::c30c:0:0:1
+117639119	ID:1	RPL: Received a DAO from fe80::c30c:0:0:6
+117645234	ID:1	RPL: Received a (unicast) DAO with sequence number 243 from fe80::c30c:0:0:6
+117651830	ID:1	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:6
+117653390	ID:1	RPL: Adding DAO route
+117662788	ID:1	RPL: Forwarding DAO to parent fe80::c30c:0:0:0 in seq: 243 out seq: 247
+117732190	ID:0	RPL: Received a DAO from fe80::c30c:0:0:1
+117738319	ID:0	RPL: Received a (unicast) DAO with sequence number 247 from fe80::c30c:0:0:1
+117744394	ID:0	RPL: DAO lifetime: 30, prefix length: 128 prefix: aaaa::c30c:0:0:6
+117746237	ID:0	RPL: Adding DAO route
+119192077	ID:11	RPL: Received a DIO from fe80::c30c:0:0:a
+119195846	ID:11	RPL: Incoming DIO (id, ver, rank) = (30,240,738)
+119200410	ID:11	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+119202635	ID:11	RPL: DIO option 4, length: 14
+119208655	ID:11	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+119210882	ID:11	RPL: DIO option 8, length: 30
+119213150	ID:11	RPL: Copying prefix information
+119260879	ID:2	RPL: Sending prefix info in DIO for aaaa::
+119264048	ID:2	RPL: Sending a multicast-DIO with rank 791
+119324697	ID:7	RPL: Received a DIO from fe80::c30c:0:0:2
+119328468	ID:7	RPL: Incoming DIO (id, ver, rank) = (30,240,791)
+119333022	ID:7	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+119335248	ID:7	RPL: DIO option 4, length: 14
+119341268	ID:7	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+119343494	ID:7	RPL: DIO option 8, length: 30
+119345763	ID:7	RPL: Copying prefix information
+119359184	ID:0	RPL: Received a DIO from fe80::c30c:0:0:2
+119362954	ID:0	RPL: Incoming DIO (id, ver, rank) = (30,240,791)
+119367517	ID:0	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+119368030	ID:10	RPL: Received a DIO from fe80::c30c:0:0:2
+119369743	ID:0	RPL: DIO option 4, length: 14
+119371800	ID:10	RPL: Incoming DIO (id, ver, rank) = (30,240,791)
+119375790	ID:0	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+119376393	ID:10	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+119378016	ID:0	RPL: DIO option 8, length: 30
+119378619	ID:10	RPL: DIO option 4, length: 14
+119380285	ID:0	RPL: Copying prefix information
+119384639	ID:10	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+119386865	ID:10	RPL: DIO option 8, length: 30
+119389134	ID:10	RPL: Copying prefix information
+119389509	ID:3	RPL: Received a DIO from fe80::c30c:0:0:2
+119393280	ID:3	RPL: Incoming DIO (id, ver, rank) = (30,240,791)
+119397873	ID:3	RPL: Incoming DIO (dag_id, pref) = (aaaa::c30c:0:0:0, 0)
+119400099	ID:3	RPL: DIO option 4, length: 14
+119406118	ID:3	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=30 l_u=60
+119408345	ID:3	RPL: DIO option 8, length: 30
+119410613	ID:3	RPL: Copying prefix information
